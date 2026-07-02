@@ -1,50 +1,94 @@
 # Heterotrophy Transcripts — Euk-Focused
 
-Reference annotation framework for identifying heterotrophy-related functional
-traits (phagotrophy, osmotrophy, parasitism, saprotrophy) in protist
-metatranscriptomes, by cross-referencing **KEGG**, **PFAM**, and **CAZy**
-enzyme/family databases.
+Reference annotation framework for identifying heterotrophy-related genes, proteins,
+and pathways in protist metatranscriptomes. **Literature-first**: every entry traces
+back to a published reference. KEGG KOs, PFAM domains, and CAZy enzyme families
+serve as the cross-reference layer.
+
+## Architecture
+
+```
+literature_heterotrophy.csv  ← primary input (human-editable; add new refs here)
+         ↓
+01_validate  →  02_classify_kegg  →  03_link_kegg  →  04_link_pfam
+                                                            ↓
+                                         05_get_cazy  →  06_get_kegg_orgs
+                                                            ↓
+                                              07_build_master_reference.csv
+```
 
 ## Data (`data/raw/`)
 
-Copied from [`../KEGG_DB`](../KEGG_DB) on 2026-07-01. That folder remains the
-working source for KEGG/PFAM curation across projects — treat files here as a
-snapshot for this project, not the canonical copy.
+| File | Description |
+|------|-------------|
+| `literature_heterotrophy.csv` | **Primary input** — one row per gene per reference. Edit this to add new papers. See column guide below. |
+| `kegg_curation_SKHU_May2026.csv` | 1,545 curated KOs (snapshot from `../KEGG_DB`); 440 classified, 1,105 pending. |
+| `pfam_parsed_table.csv` | 19,632 PFAM-A families (reference table). |
+| `trophy_curated_kegg.csv` | Earlier KO list (455 rows); kept for cross-check. |
+| `reformat-kegg-pfam-skh.csv` | Earlier KEGG+PFAM pass; kept for cross-check. |
 
-| File | Rows | Description |
-|---|---|---|
-| `kegg_curation_SKHU_May2026.csv` | 1,545 | Primary curated KO list. Columns: `CLASSIFICATION_BROAD`, `CLASSIFICATION_SPECIFIC`, `CLASS`, `KEGG`, `GO`, `PFAM`, `NAME_SHORT`, `NAME_FULL`, `DESCRIPTION`, `REFERENCE`, `WHY`. Most complete/recent curation. |
-| `trophy_curated_kegg.csv` | 455 | Earlier, simpler KO list (KEGG ID + `CLASS_REFINE` only, e.g. "Fatty acid breakdown"). Likely superseded by the May2026 file — kept for reference/cross-check. |
-| `reformat-kegg-pfam-skh.csv` | 475 | Earlier KEGG+PFAM curation pass (carbon fixation, gluconeogenesis, etc.). |
-| `pfam_parsed_table.csv` | 19,632 | Full PFAM-A family reference table (Pfam ID, description, gathering threshold, clan). Not yet linked to the heterotrophy KO list. |
+### `literature_heterotrophy.csv` columns
 
-No CAZy data exists yet in any prior project — that leg needs to be built from
-scratch (e.g. via the [dbCAN](https://bcb.unl.edu/dbCAN2/) family list or the
-[CAZy website](http://www.cazy.org/)).
+| Column | Required | Description |
+|--------|----------|-------------|
+| `ref_id` | ✓ | Short unique key, e.g. `Labarre2020` |
+| `doi` | | DOI string |
+| `first_author` | | Last name |
+| `year` | | Publication year |
+| `journal` | | Journal name |
+| `title` | | Paper title |
+| `gene_name` | ✓ | Gene/protein name as used in the paper |
+| `gene_alias` | | Semicolon-separated aliases |
+| `function_broad` | ✓ | e.g. `Phagocytosis`, `Digestion`, `Vesicle trafficking`, `Assimilation`, `Detection`, `Scaling up` |
+| `function_specific` | | e.g. `Phagosome formation`, `Lysosomal acidification` |
+| `organism_studied` | | Protist taxon(a) studied |
+| `ko_id` | | KEGG KO ID (K#####); script 03 fills blanks via fuzzy match |
+| `pfam_id` | | PFAM accession (PF#####); script 04 fills blanks |
+| `cazy_family` | | CAZy family (e.g. `GH18`); script 05 links |
+| `notes` | | Free text |
 
-## Status (2026-07-01)
+**To add a new reference:** append rows (one per gene per paper) and re-run scripts 01 → 07.
 
-- **KEGG**: 1,545 KOs curated. Classified so far: Phagotrophy (300),
-  Parasitism (72), Nutrient processing (47), Cellular function (21).
-  **1,105 rows still have blank `CLASSIFICATION_BROAD`/`CLASSIFICATION_SPECIFIC`**
-  (mostly cytoskeletal/trafficking genes pulled from Labarre et al. 2019 —
-  e.g. dynein, clathrin — not yet placed into the heterotrophy scheme).
-- **PFAM**: reference table present, not cross-linked to curated KOs.
-- **CAZy**: not started.
+## Scripts (`scripts/`)
 
-## Next steps
+| Script | Purpose |
+|--------|---------|
+| `01_validate_literature_input.R` | Validate CSV; print summary by function_broad |
+| `02_classify_kegg_unclassified.R` | Keyword-classify 1,105 blank KEGG KOs |
+| `03_link_literature_to_kegg.R` | Join lit genes → KEGG KOs (exact + fuzzy) |
+| `04_link_literature_to_pfam.R` | Join lit genes → PFAM families |
+| `05_get_cazy_families.R` | Download CAZy GH/PL/CE/AA families from cazy.org |
+| `06_get_kegg_protist_organisms.R` | Fetch KEGG organism codes for protists |
+| `07_build_master_reference.R` | Merge all → `heterotrophy_master_reference.csv` |
 
-1. Finish classifying the ~1,105 blank rows in `kegg_curation_SKHU_May2026.csv`.
-2. Link `PFAM` column in the KO curation against `pfam_parsed_table.csv`.
-3. Build a CAZy family list and cross-reference against carbohydrate-active
-   heterotrophy traits.
-4. Identify KEGG organism IDs for target protists
-   (https://rest.kegg.jp/list/organism) to scope which KOs are even present
-   in the taxa of interest.
+Run in order: `01` → `02` → `03` → `04` → `05` → `06` → `07`
+
+## Outputs (`data/processed/`)
+
+| File | Description |
+|------|-------------|
+| `gene_ref_summary.csv` | One row per unique gene; ref count, KEGG/PFAM/CAZy IDs |
+| `kegg_classified_all.csv` | All KEGG KOs with classification (manual + keyword-auto) |
+| `lit_kegg_linked.csv` | Literature table + KEGG KO matches |
+| `lit_pfam_linked.csv` | Literature table + PFAM matches |
+| `cazy_reference.csv` | CAZy GH/PL/CE/AA family table |
+| `kegg_protist_organisms.csv` | KEGG organism codes for protists |
+| `heterotrophy_master_reference.csv` | **Final output** — one row per gene × function |
+
+## Key KEGG pathway anchors
+| KEGG ID | Pathway | Heterotrophy role |
+|---------|---------|-------------------|
+| ko04145 | Phagosome | Prey engulfment |
+| ko04142 | Lysosome | Intracellular digestion |
+| ko00071 | Fatty acid degradation | Prey lipid assimilation |
+
+## Seed literature (10 core references, 2026-07-02)
+Pernthaler (2005) · Caron et al. (2017) · Kiørboe (2024) · Labarre et al. (2020, 2021) ·
+Massana et al. (2021) · Wootton et al. (2007) · Boulais et al. (2010) ·
+Lie et al. (2022) · Carradec et al. (2018)
 
 ## Structure
-
-- `data/raw/` — source curation files (see table above)
-- `data/processed/` — cleaned/merged outputs
-- `scripts/` — R scripts / Quarto docs for loading, merging, and analyzing data
+- `data/raw/` — source files (KEGG, PFAM, literature CSV)
+- `data/processed/` — pipeline outputs
+- `scripts/` — R scripts (run 01–07 in order)
 - `output/` — figures, summary tables
