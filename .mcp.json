@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "heterotrophy-reference": {
+      "command": "/Users/skhu/Desktop/Projects/heterotrophy-euk-focused/mcp/.venv/bin/python",
+      "args": [
+        "/Users/skhu/Desktop/Projects/heterotrophy-euk-focused/mcp/heterotrophy_mcp/server.py"
+      ],
+      "env": {
+        "HETEROTROPHY_CSV": "/Users/skhu/Desktop/Projects/heterotrophy-euk-focused/data/raw/literature_heterotrophy.csv"
+      }
+    }
+  }
+}

@@ -87,8 +87,36 @@ Pernthaler (2005) · Caron et al. (2017) · Kiørboe (2024) · Labarre et al. (2
 Massana et al. (2021) · Wootton et al. (2007) · Boulais et al. (2010) ·
 Lie et al. (2022) · Carradec et al. (2018)
 
+## MCP Server (interactive use)
+
+A local MCP server lets you add references and search the database from any Claude conversation.
+
+**Setup** (one time):
+```bash
+cd mcp
+# venv already created at mcp/.venv — install is done
+# Register the server by pointing Claude Code at .mcp.json in the project root
+```
+
+**Available tools:**
+| Tool | Description |
+|------|-------------|
+| `add_reference(doi, gene_name, function_broad, ...)` | Auto-fetches paper metadata from CrossRef; appends validated row to CSV |
+| `search_genes(query)` | Fuzzy search gene_name + gene_alias |
+| `get_coverage(function_broad?)` | Summary counts by function category |
+| `link_gene_to_kegg(gene_name)` | Live KEGG REST lookup for candidate KO IDs |
+
+**Environment variable:** `HETEROTROPHY_CSV` — override default CSV path (set in `.mcp.json`).
+
+## Test Dataset
+
+`data/raw/test_literature_heterotrophy.csv` — 5 rows, 2 refs, 5 genes with known KO/PFAM/CAZy IDs.
+Use to validate scripts 01–07 before running the full 100-row dataset.
+Expected: Digestion=3, Phagocytosis=1, Vesicle trafficking=1; all 4 genes with ko_id exact-matched in script 03.
+
 ## Structure
-- `data/raw/` — source files (KEGG, PFAM, literature CSV)
+- `data/raw/` — source files (KEGG, PFAM, literature CSV, test CSV)
 - `data/processed/` — pipeline outputs
 - `scripts/` — R scripts (run 01–07 in order)
+- `mcp/` — Python MCP server for interactive reference addition
 - `output/` — figures, summary tables

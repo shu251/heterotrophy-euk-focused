@@ -1,0 +1,6 @@
+ref_id,doi,first_author,year,journal,title,gene_name,gene_alias,function_broad,function_specific,organism_studied,ko_id,pfam_id,cazy_family,notes
+TestRef_A,10.1002/lno.11379,Labarre,2020,Limnology and Oceanography,Test paper A,clathrin heavy chain,CHC;CLTC,Phagocytosis,Phagosome formation,MAST heterotrophic flagellates,K04646,PF00966,,Clathrin triskelion heavy chain
+TestRef_A,10.1002/lno.11379,Labarre,2020,Limnology and Oceanography,Test paper A,cathepsin B,CTSB,Digestion,Lysosomal proteolysis,MAST heterotrophic flagellates,K01363,PF00112,,Cysteine protease; lysosomal digestion marker
+TestRef_A,10.1002/lno.11379,Labarre,2020,Limnology and Oceanography,Test paper A,RAB7,Rab7A,Vesicle trafficking,Late endosome maturation,MAST heterotrophic flagellates,K07900,,,Small GTPase; phagosome maturation
+TestRef_B,10.1016/j.cub.2022.01.001,Lie,2022,Current Biology,Test paper B,cathepsin D,CTSD,Digestion,Lysosomal proteolysis,Ochromonas spp.,K01379,PF00026,,Aspartyl protease
+TestRef_B,10.1016/j.cub.2022.01.001,Lie,2022,Current Biology,Test paper B,chitinase,GH18,Digestion,Prey cell wall degradation,Ochromonas spp.,,PF00704,GH18,Glycoside hydrolase family 18

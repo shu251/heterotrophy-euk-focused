@@ -1,0 +1,12 @@
+[project]
+name = "heterotrophy-mcp"
+version = "0.1.0"
+description = "MCP server for interactive heterotrophy literature reference management"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp[cli]",
+    "httpx",
+]
+
+[tool.uv]
+python = "3.12"
