@@ -7,22 +7,28 @@ pfam <- read_csv("data/raw/pfam_parsed_table.csv", show_col_types = FALSE)
 # Standardize PFAM column names (inspect what's in the file)
 cat("PFAM table columns:", paste(names(pfam), collapse = ", "), "\n")
 
+# Identify the PFAM ID column (Pfam_ID) and description column
+pfam_id_col  <- names(pfam)[str_detect(names(pfam), regex("pfam_id", ignore_case = TRUE))][1]
+if (is.na(pfam_id_col)) pfam_id_col <- "Pfam_ID"
+# Prefer the plain "Description" column for fuzzy matching (not "Descriptive_ID")
+desc_col <- if ("Description" %in% names(pfam)) "Description" else {
+  candidates <- names(pfam)[str_detect(tolower(names(pfam)), "^desc")]
+  if (length(candidates) > 0) candidates[1] else names(pfam)[2]
+}
+cat("Using PFAM ID col:", pfam_id_col, " | Description col:", desc_col, "\n")
+
 # Direct join for rows with pfam_id provided
 direct <- lit |>
   filter(!is.na(pfam_id)) |>
-  left_join(pfam, by = c("pfam_id" = names(pfam)[1])) |>
+  left_join(pfam, by = c("pfam_id" = pfam_id_col)) |>
   mutate(pfam_match_confidence = "exact")
 
 # Fuzzy join gene_name against PFAM description for unlinked rows
 needs_match <- lit |> filter(is.na(pfam_id))
 
-# Find the description column
-desc_col <- names(pfam)[str_detect(tolower(names(pfam)), "desc|name")]
-if (length(desc_col) == 0) desc_col <- names(pfam)[2]
-
 pfam_lookup <- pfam |>
-  mutate(search_text = tolower(.data[[desc_col[1]]])) |>
-  select(1, all_of(desc_col[1]), search_text)
+  mutate(search_text = tolower(.data[[desc_col]])) |>
+  select(all_of(pfam_id_col), all_of(desc_col), search_text)
 
 if (nrow(needs_match) > 0 && requireNamespace("stringdist", quietly = TRUE)) {
   fuzzy_matched <- stringdist_left_join(
@@ -37,8 +43,8 @@ if (nrow(needs_match) > 0 && requireNamespace("stringdist", quietly = TRUE)) {
     slice_min(jw_dist, n = 1, with_ties = FALSE) |>
     ungroup() |>
     mutate(
-      pfam_id = coalesce(pfam_id, as.character(.data[[names(pfam_lookup)[1]]])),
-      pfam_match_confidence = if_else(!is.na(.data[[names(pfam_lookup)[1]]]), "fuzzy", "unmatched")
+      pfam_id = coalesce(pfam_id, as.character(.data[[pfam_id_col]])),
+      pfam_match_confidence = if_else(!is.na(.data[[pfam_id_col]]), "fuzzy", "unmatched")
     ) |>
     select(-query, -search_text, -jw_dist)
 } else {

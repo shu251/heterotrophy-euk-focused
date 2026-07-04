@@ -2,18 +2,28 @@ library(tidyverse)
 library(httr2)
 
 # KEGG REST API: list all organisms
-message("Downloading KEGG organism list...")
-resp <- request("https://rest.kegg.jp/list/organism") |>
+message("Downloading KEGG genome list...")
+resp <- request("https://rest.kegg.jp/list/genome") |>
   req_timeout(60) |>
   req_perform()
 
 raw_text <- resp_body_string(resp)
 
-orgs <- read_tsv(
+# /list/genome returns: T_number \t "org_code; name"
+# parse into T_number, org_code, name, taxonomy (taxonomy embedded in name field for eukaryotes)
+orgs_raw <- read_tsv(
   I(raw_text),
-  col_names = c("T_number", "org_code", "name", "taxonomy"),
+  col_names = c("T_number", "org_name"),
   show_col_types = FALSE
 )
+
+orgs <- orgs_raw |>
+  mutate(
+    org_code = str_extract(org_name, "^[^;]+") |> str_trim(),
+    name = str_extract(org_name, "(?<=; ).+") |> str_trim(),
+    taxonomy = name   # use full name for taxonomy filtering
+  ) |>
+  select(T_number, org_code, name, taxonomy)
 
 cat("Total KEGG organisms:", nrow(orgs), "\n")
 

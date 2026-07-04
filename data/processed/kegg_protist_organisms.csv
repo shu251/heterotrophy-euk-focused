@@ -1,0 +1,196 @@
+T_number,org_code,name,taxonomy
+T02667,acan,Acanthamoeba castellanii,Acanthamoeba castellanii
+T08062,bbig,Babesia bigemina,Babesia bigemina
+T01085,bbo,Babesia bovis,Babesia bovis
+T10391,bdw,Babesia duncani,Babesia duncani
+T05554,bmic,Babesia microti,Babesia microti
+T03089,bpg,Bathycoccus prasinos,Bathycoccus prasinos
+T10171,csaz,Candidatus Chlamydia sanziniae,Candidatus Chlamydia sanziniae
+T03403,frf,Candidatus Francisella endociliophora,Candidatus Francisella endociliophora
+T03232,paca,Candidatus Odyssella acanthamoebae,Candidatus Odyssella acanthamoebae
+T03240,caq,Candidatus Paracaedimonas acanthamoebae,Candidatus Paracaedimonas acanthamoebae
+T00172,pcu,Candidatus Protochlamydia amoebophila,Candidatus Protochlamydia amoebophila
+T04212,pnl,Candidatus Protochlamydia naegleriophila,Candidatus Protochlamydia naegleriophila
+T07398,rhaw,Candidatus Rhabdochlamydia oedothoracis,Candidatus Rhabdochlamydia oedothoracis
+T07448,rpor,Candidatus Rhabdochlamydia porcellionis,Candidatus Rhabdochlamydia porcellionis
+T03773,cabo,Chlamydia abortus AB7,Chlamydia abortus AB7
+T00242,cab,Chlamydia abortus S26/3,Chlamydia abortus S26/3
+T03069,cav,Chlamydia avium,Chlamydia avium
+T07542,cbue,Chlamydia buteonis,Chlamydia buteonis
+T00125,cca,Chlamydia caviae,Chlamydia caviae
+T08674,ccrd,Chlamydia crocodili,Chlamydia crocodili
+T00332,cfe,Chlamydia felis Fe/C-56,Chlamydia felis Fe/C-56
+T04276,cgz,Chlamydia gallinacea,Chlamydia gallinacea
+T00028,cmu,Chlamydia muridarum Nigg,Chlamydia muridarum Nigg
+T03206,cmn,Chlamydia muridarum Nigg 2 MCR,Chlamydia muridarum Nigg 2 MCR
+T03671,cmur,Chlamydia muridarum Nigg CM972,Chlamydia muridarum Nigg CM972
+T03505,cmx,Chlamydia muridarum Nigg3,Chlamydia muridarum Nigg3
+T03684,cmz,Chlamydia muridarum Nigg3 CMUT3-5,Chlamydia muridarum Nigg3 CMUT3-5
+T03404,cmm,Chlamydia muridarum Nigg3 clone G0.1.1,Chlamydia muridarum Nigg3 clone G0.1.1
+T03405,cmg,Chlamydia muridarum Nigg3 clone G28.38.1,Chlamydia muridarum Nigg3 clone G28.38.1
+T01466,cpm,Chlamydia pecorum E58,Chlamydia pecorum E58
+T02853,cpec,Chlamydia pecorum P787,Chlamydia pecorum P787
+T02854,cpeo,Chlamydia pecorum PV3056/3,Chlamydia pecorum PV3056/3
+T02855,cper,Chlamydia pecorum W73,Chlamydia pecorum W73
+T00029,cpa,Chlamydia pneumoniae AR39,Chlamydia pneumoniae AR39
+T00021,cpn,Chlamydia pneumoniae CWL029,Chlamydia pneumoniae CWL029
+T00032,cpj,Chlamydia pneumoniae J138,Chlamydia pneumoniae J138
+T01859,clp,Chlamydia pneumoniae LPCoLN,Chlamydia pneumoniae LPCoLN
+T00136,cpt,Chlamydia pneumoniae TW-183,Chlamydia pneumoniae TW-183
+T05716,chla,Chlamydia poikilotherma,Chlamydia poikilotherma
+T01860,chs,Chlamydia psittaci 01DC11,Chlamydia psittaci 01DC11
+T02343,cpsd,Chlamydia psittaci 01DC12,Chlamydia psittaci 01DC12
+T01861,chi,Chlamydia psittaci 02DC15,Chlamydia psittaci 02DC15
+T01862,cht,Chlamydia psittaci 08DC60,Chlamydia psittaci 08DC60
+T01481,chp,Chlamydia psittaci 6BC,Chlamydia psittaci 6BC
+T02097,chb,Chlamydia psittaci 6BC,Chlamydia psittaci 6BC
+T02308,cpsb,Chlamydia psittaci 84/55,Chlamydia psittaci 84/55
+T01863,chc,Chlamydia psittaci C19/98,Chlamydia psittaci C19/98
+T02251,cpsc,Chlamydia psittaci CP3,Chlamydia psittaci CP3
+T02309,cpsg,Chlamydia psittaci GR9,Chlamydia psittaci GR9
+T02310,cpsm,Chlamydia psittaci M56,Chlamydia psittaci M56
+T02311,cpsi,Chlamydia psittaci MN,Chlamydia psittaci MN
+T02450,cpsa,Chlamydia psittaci Mat116,Chlamydia psittaci Mat116
+T02252,cpsn,Chlamydia psittaci NJ1,Chlamydia psittaci NJ1
+T02153,chr,Chlamydia psittaci RD1,Chlamydia psittaci RD1
+T02312,cpsv,Chlamydia psittaci VS225,Chlamydia psittaci VS225
+T02313,cpsw,Chlamydia psittaci WC,Chlamydia psittaci WC
+T02314,cpst,Chlamydia psittaci WS/RT/E30,Chlamydia psittaci WS/RT/E30
+T08163,csee,Chlamydia serpentis,Chlamydia serpentis
+T07130,csui,Chlamydia suis,Chlamydia suis
+T02562,ctrq,Chlamydia trachomatis A/363,Chlamydia trachomatis A/363
+T02563,ctrx,Chlamydia trachomatis A/5291,Chlamydia trachomatis A/5291
+T02564,ctrz,Chlamydia trachomatis A/7249,Chlamydia trachomatis A/7249
+T00280,cta,Chlamydia trachomatis A/HAR-13,Chlamydia trachomatis A/HAR-13
+T01707,cty,Chlamydia trachomatis A2497,Chlamydia trachomatis A2497
+T02094,cra,Chlamydia trachomatis A2497,Chlamydia trachomatis A2497
+T00960,ctj,Chlamydia trachomatis B/Jali20/OT,Chlamydia trachomatis B/Jali20/OT
+T01327,ctz,Chlamydia trachomatis B/TZ1A828/OT,Chlamydia trachomatis B/TZ1A828/OT
+T02966,ctct,Chlamydia trachomatis C/TW-3,Chlamydia trachomatis C/TW-3
+T01900,ctd,Chlamydia trachomatis D-EC,Chlamydia trachomatis D-EC
+T01901,ctf,Chlamydia trachomatis D-LC,Chlamydia trachomatis D-LC
+T02551,ctrd,Chlamydia trachomatis D/SotonD1,Chlamydia trachomatis D/SotonD1
+T02560,ctro,Chlamydia trachomatis D/SotonD5,Chlamydia trachomatis D/SotonD5
+T02561,ctrt,Chlamydia trachomatis D/SotonD6,Chlamydia trachomatis D/SotonD6
+T00017,ctr,Chlamydia trachomatis D/UW-3/CX,Chlamydia trachomatis D/UW-3/CX
+T01902,ctg,Chlamydia trachomatis E/11023,Chlamydia trachomatis E/11023
+T01903,ctk,Chlamydia trachomatis E/150,Chlamydia trachomatis E/150
+T02547,ctrb,Chlamydia trachomatis E/Bour,Chlamydia trachomatis E/Bour
+T03168,ctec,Chlamydia trachomatis E/C599,Chlamydia trachomatis E/C599
+T02164,ces,Chlamydia trachomatis E/SW3,Chlamydia trachomatis E/SW3
+T02555,ctre,Chlamydia trachomatis E/SotonE4,Chlamydia trachomatis E/SotonE4
+T02556,ctrs,Chlamydia trachomatis E/SotonE8,Chlamydia trachomatis E/SotonE8
+T02805,ctch,Chlamydia trachomatis F/11-96,Chlamydia trachomatis F/11-96
+T02165,cfs,Chlamydia trachomatis F/SW4,Chlamydia trachomatis F/SW4
+T02166,cfw,Chlamydia trachomatis F/SW5,Chlamydia trachomatis F/SW5
+T03169,ctfw,Chlamydia trachomatis F/SWFPminus,Chlamydia trachomatis F/SWFPminus
+T02552,ctrf,Chlamydia trachomatis F/SotonF3,Chlamydia trachomatis F/SotonF3
+T01904,ctn,Chlamydia trachomatis G/11074,Chlamydia trachomatis G/11074
+T01905,ctq,Chlamydia trachomatis G/11222,Chlamydia trachomatis G/11222
+T01906,ctv,Chlamydia trachomatis G/9301,Chlamydia trachomatis G/9301
+T01907,ctw,Chlamydia trachomatis G/9768,Chlamydia trachomatis G/9768
+T02553,ctrg,Chlamydia trachomatis G/SotonG1,Chlamydia trachomatis G/SotonG1
+T02493,ctri,Chlamydia trachomatis IU824,Chlamydia trachomatis IU824
+T02540,ctra,Chlamydia trachomatis IU888,Chlamydia trachomatis IU888
+T02565,ctrh,Chlamydia trachomatis Ia/SotonIa1,Chlamydia trachomatis Ia/SotonIa1
+T02566,ctrj,Chlamydia trachomatis Ia/SotonIa3,Chlamydia trachomatis Ia/SotonIa3
+T02762,ctjt,Chlamydia trachomatis J/6276tet1,Chlamydia trachomatis J/6276tet1
+T02546,ctrk,Chlamydia trachomatis K/SotonK1,Chlamydia trachomatis K/SotonK1
+T02569,ctlj,Chlamydia trachomatis L1/115,Chlamydia trachomatis L1/115
+T02557,ctrp,Chlamydia trachomatis L1/1322/p2,Chlamydia trachomatis L1/1322/p2
+T02570,ctlx,Chlamydia trachomatis L1/224,Chlamydia trachomatis L1/224
+T02571,ctll,Chlamydia trachomatis L1/440/LN,Chlamydia trachomatis L1/440/LN
+T02559,ctrr,Chlamydia trachomatis L2/25667R,Chlamydia trachomatis L2/25667R
+T00645,ctb,Chlamydia trachomatis L2/434/Bu,Chlamydia trachomatis L2/434/Bu
+T02621,ctlf,Chlamydia trachomatis L2/434/Bu(f),Chlamydia trachomatis L2/434/Bu(f)
+T02622,ctli,Chlamydia trachomatis L2/434/Bu(i),Chlamydia trachomatis L2/434/Bu(i)
+T02572,ctlb,Chlamydia trachomatis L2b/795,Chlamydia trachomatis L2b/795
+T02573,ctlq,Chlamydia trachomatis L2b/8200/07,Chlamydia trachomatis L2b/8200/07
+T02558,ctrm,Chlamydia trachomatis L2b/Ams1,Chlamydia trachomatis L2b/Ams1
+T02574,ctla,Chlamydia trachomatis L2b/Ams2,Chlamydia trachomatis L2b/Ams2
+T02575,ctlm,Chlamydia trachomatis L2b/Ams3,Chlamydia trachomatis L2b/Ams3
+T02576,ctls,Chlamydia trachomatis L2b/Ams4,Chlamydia trachomatis L2b/Ams4
+T02577,ctlz,Chlamydia trachomatis L2b/Ams5,Chlamydia trachomatis L2b/Ams5
+T02554,ctrv,Chlamydia trachomatis L2b/CV204,Chlamydia trachomatis L2b/CV204
+T02567,ctlc,Chlamydia trachomatis L2b/Canada1,Chlamydia trachomatis L2b/Canada1
+T02568,ctln,Chlamydia trachomatis L2b/Canada2,Chlamydia trachomatis L2b/Canada2
+T02549,ctrl,Chlamydia trachomatis L2b/LST,Chlamydia trachomatis L2b/LST
+T00646,ctl,Chlamydia trachomatis L2b/UCH-1/proctitis,Chlamydia trachomatis L2b/UCH-1/proctitis
+T02548,ctru,Chlamydia trachomatis L2b/UCH-2,Chlamydia trachomatis L2b/UCH-2
+T01574,cto,Chlamydia trachomatis L2c,Chlamydia trachomatis L2c
+T02550,ctrn,Chlamydia trachomatis L3/404/LN,Chlamydia trachomatis L3/404/LN
+T02764,ctfs,Chlamydia trachomatis RC-F(s)/342,Chlamydia trachomatis RC-F(s)/342
+T02765,cthf,Chlamydia trachomatis RC-F(s)/852,Chlamydia trachomatis RC-F(s)/852
+T02763,ctcf,Chlamydia trachomatis RC-F/69,Chlamydia trachomatis RC-F/69
+T02770,ctjs,Chlamydia trachomatis RC-J(s)/122,Chlamydia trachomatis RC-J(s)/122
+T02766,ctcj,Chlamydia trachomatis RC-J/943,Chlamydia trachomatis RC-J/943
+T02767,cthj,Chlamydia trachomatis RC-J/953,Chlamydia trachomatis RC-J/953
+T02768,ctmj,Chlamydia trachomatis RC-J/966,Chlamydia trachomatis RC-J/966
+T02769,cttj,Chlamydia trachomatis RC-J/971,Chlamydia trachomatis RC-J/971
+T02772,ctrw,Chlamydia trachomatis RC-L2(s)/3,Chlamydia trachomatis RC-L2(s)/3
+T02773,ctry,Chlamydia trachomatis RC-L2(s)/46,Chlamydia trachomatis RC-L2(s)/46
+T02771,ctrc,Chlamydia trachomatis RC-L2/55,Chlamydia trachomatis RC-L2/55
+T01966,csw,Chlamydia trachomatis Sweden2,Chlamydia trachomatis Sweden2
+T01039,cre,Chlamydomonas reinhardtii,Chlamydomonas reinhardtii
+T09727,cpaa,Chlamydophila parapsittaci,Chlamydophila parapsittaci
+T08437,cmac,Chlamydotis macqueenii (Macqueen's bustard),Chlamydotis macqueenii (Macqueen's bustard)
+T00210,cho,Cryptosporidium hominis,Cryptosporidium hominis
+T00168,cpv,Cryptosporidium parvum,Cryptosporidium parvum
+T00245,ddi,Dictyostelium discoideum (cellular slime mold),Dictyostelium discoideum (cellular slime mold)
+T02090,dpp,Dictyostelium purpureum (cellular slime mold),Dictyostelium purpureum (cellular slime mold)
+T02915,ehx,Emiliania huxleyi,Emiliania huxleyi
+T03255,eaa,Endosymbiont of Acanthamoeba sp. UWC8,Endosymbiont of Acanthamoeba sp. UWC8
+T01083,edi,Entamoeba dispar,Entamoeba dispar
+T00238,ehi,Entamoeba histolytica,Entamoeba histolytica
+T04133,eiv,Entamoeba invadens,Entamoeba invadens
+T01047,gla,Giardia lamblia,Giardia lamblia
+T02925,gtt,Guillardia theta,Guillardia theta
+T01113,lbz,Leishmania braziliensis,Leishmania braziliensis
+T02289,ldo,Leishmania donovani,Leishmania donovani
+T10389,lenr,Leishmania enriettii,Leishmania enriettii
+T01112,lif,Leishmania infantum,Leishmania infantum
+T01014,lma,Leishmania major,Leishmania major
+T10333,lmat,Leishmania martiniquensis,Leishmania martiniquensis
+T02288,lmi,Leishmania mexicana,Leishmania mexicana
+T10351,loi,Leishmania orientalis,Leishmania orientalis
+T06539,lpan,Leishmania panamensis,Leishmania panamensis
+T10390,leis,Leishmania sp. Ghana 2012 LV757,Leishmania sp. Ghana 2012 LV757
+T10410,lein,Leishmania sp. Namibia,Leishmania sp. Namibia
+T02695,mis,Micromonas commoda,Micromonas commoda
+T02696,mpp,Micromonas pusilla,Micromonas pusilla
+T01042,mbr,Monosiga brevicollis,Monosiga brevicollis
+T01241,ngr,Naegleria gruberi,Naegleria gruberi
+T05849,ney,Neochlamydia sp. S13,Neochlamydia sp. S13
+T01029,olu,Ostreococcus lucimarinus,Ostreococcus lucimarinus
+T01358,ota,Ostreococcus tauri,Ostreococcus tauri
+T01552,puv,Parachlamydia acanthamoebae,Parachlamydia acanthamoebae
+T01055,ptm,Paramecium tetraurelia,Paramecium tetraurelia
+T10353,plag,Plasmodium adleri,Plasmodium adleri
+T01111,pbe,Plasmodium berghei,Plasmodium berghei
+T10352,pbrs,Plasmodium brasilianum,Plasmodium brasilianum
+T01108,pcb,Plasmodium chabaudi,Plasmodium chabaudi
+T10133,pcot,Plasmodium coatneyi,Plasmodium coatneyi
+T02490,pcy,Plasmodium cynomolgi,Plasmodium cynomolgi
+T00095,pfa,Plasmodium falciparum 3D7,Plasmodium falciparum 3D7
+T01051,pfd,Plasmodium falciparum Dd2,Plasmodium falciparum Dd2
+T01052,pfh,Plasmodium falciparum HB3,Plasmodium falciparum HB3
+T08136,pgab,Plasmodium gaboni,Plasmodium gaboni
+T01094,pkn,Plasmodium knowlesi,Plasmodium knowlesi
+T09444,pmal,Plasmodium malariae,Plasmodium malariae
+T08079,prei,Plasmodium reichenowi,Plasmodium reichenowi
+T09405,prel,Plasmodium relictum,Plasmodium relictum
+T08061,pvv,Plasmodium vinckei vinckei,Plasmodium vinckei vinckei
+T01073,pvx,Plasmodium vivax,Plasmodium vivax
+T01035,pyo,Plasmodium yoelii,Plasmodium yoelii
+T09407,pchm,Pochonia chlamydosporia,Pochonia chlamydosporia
+T04136,sre,Salpingoeca rosetta,Salpingoeca rosetta
+T01020,tet,Tetrahymena thermophila,Tetrahymena thermophila
+T00253,tan,Theileria annulata,Theileria annulata
+T02820,beq,Theileria equi,Theileria equi
+T03460,tot,Theileria orientalis,Theileria orientalis
+T00254,tpv,Theileria parva,Theileria parva
+T01093,tgo,Toxoplasma gondii,Toxoplasma gondii
+T01022,tva,Trichomonas vaginalis,Trichomonas vaginalis
+T01013,tbr,Trypanosoma brucei brucei,Trypanosoma brucei brucei
+T06526,tbg,Trypanosoma brucei gambiense,Trypanosoma brucei gambiense
+T01012,tcr,Trypanosoma cruzi,Trypanosoma cruzi

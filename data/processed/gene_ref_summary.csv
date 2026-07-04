@@ -1,0 +1,99 @@
+gene_name,gene_alias,function_broad,function_specific,n_refs,ref_ids,ko_id,pfam_id,cazy_family
+C/N acquisition (nanoSIMS + gene expression),phagotrophy C;N uptake,Assimilation,Phagotrophic C and N assimilation rates,1,Carpenter2018,NA,NA,NA
+C/N assimilation (phagotrophic pathway),phagotrophy C;N assimilation,Assimilation,Carbon and nitrogen uptake via phagotrophy vs photosynthesis,1,Terrado2017,NA,NA,NA
+C/N uptake rates (ciliate mixotrophy vs heterotrophy),ciliate C;N uptake,Assimilation,Comparative C and N acquisition in ciliates,1,Schoener2017,NA,NA,NA
+alkaline phosphatase,ALPL;PhoA,Assimilation,Dissolved organic phosphorus remineralization,1,Liu2015a,K01077,NA,NA
+alkaline phosphatase (eukaryotic),ALPL,Assimilation,Organic phosphorus remineralization,1,Zielinski2016,K01077,NA,NA
+ammonium transporter,AMT;Rh protein,Assimilation,Ammonium uptake,1,Liu2015a,K03320,NA,NA
+beta-oxidation (ACAD),ACAD;ACADS,Assimilation,Fatty acid beta-oxidation of prey lipids,1,Lie2018,K00249,NA,NA
+dark heterotrophic metabolism (microalgae),heterotrophic microalgae metabolism,Assimilation,Heterotrophic carbon and energy metabolism in microalgae,1,PerezGarcia2011,NA,NA,NA
+fatty acid beta-oxidation (HADH),HADH;HADHB,Assimilation,Beta-oxidation of prey fatty acids,1,Massana2021,K00022,NA,NA
+fatty acid biosynthesis (heterotrophic shift),FAS;FASN,Assimilation,Carbon partitioning into fatty acids under mixotrophy,1,Lari2019,K00665,NA,NA
+glucose transporter,GLUT;HXT,Assimilation,Glucose uptake for dark heterotrophic growth,1,PerezGarcia2011,K07299,NA,NA
+glutamine synthetase,GS;GLUL,Assimilation,Ammonium assimilation (N fixation into amino acids),1,DagenaisBellefeuille2013,K01915,NA,NA
+kleptoplasty / sequestered chloroplasts,kleptoplast retention,Assimilation,Kleptoplasty as heterotrophic assimilation strategy,1,Johnson2011,NA,NA,NA
+light-harvesting chlorophyll a/b binding protein,LHCA;LHCB,Assimilation,Photosynthetic light harvesting (suppressed under prey),1,Lie2017,K08905,NA,NA
+nitrate reductase,NR;NIA1,Assimilation,Nitrate reduction / nitrogen acquisition,1,Liu2015a,K10534,NA,NA
+nitrogen assimilation (dinoflagellate),NR;GS;GOGAT,Assimilation,Nitrogen uptake and assimilation pathways,1,DagenaisBellefeuille2013,K10534,NA,NA
+photosynthetic energy allocation,PSI;PSII;Calvin cycle,Assimilation,Photosynthetic energy partitioning (reference for mixotrophy context),1,Halsey2015,K08905,NA,NA
+urease,UreC,Assimilation,Urea nitrogen acquisition,1,Zielinski2016,K01427,NA,NA
+feeding behavior (Oxytoxum),dinoflagellate feeding behavior,Detection,Prey capture behavior + phylogenomic context,1,Cooney2024,NA,NA,NA
+flagellar beat frequency,NA,Detection,Prey encounter rate (hydrodynamics),1,Kiorboe2024,NA,NA,NA
+flagellar motility genes,NA,Detection,Prey search and encounter,1,Pernthaler2005,NA,NA,NA
+lectin (mannose-binding),MBL,Detection,Prey surface recognition,1,Wootton2007,NA,NA,NA
+marker gene set (ML trophic),trophic markers,Detection,Machine-learning trophic mode inference,1,Lie2022,NA,NA,NA
+phagocytosis (Oxyrrhis model organism),Oxyrrhis marina culture,Detection,Prey recognition and capture in Oxyrrhis marina,1,Lowe2011,NA,NA,NA
+LAMP1,CD107a;lysosomal membrane protein,Digestion,Lysosomal membrane integrity,1,Boulais2010,K06824,NA,NA
+NADPH oxidase (NOX2),CYBB;gp91phox,Digestion,Reactive oxygen species generation; prey killing,1,Boulais2010,K21421,NA,NA
+V-type H+-ATPase,vATPase;V-ATPase,Digestion,Phagosome acidification,1,Massana2021,K02154,NA,NA
+V-type H+-ATPase subunit,ATP6V1A;VMA1,Digestion,Phagosome/lysosome acidification,1,Obiol2023,K02145,NA,NA
+cathepsin B,CTSB,Digestion,Lysosomal protease / prey protein digestion,1,Liu2015b,K01363,NA,NA
+cathepsin B,CTSB,Digestion,Lysosomal protease; prey protein digestion,1,Massana2021,K01363,NA,NA
+cathepsin D,CTSD,Digestion,Lysosomal aspartic protease,1,Massana2021,K01379,NA,NA
+cathepsin L,CTSL,Digestion,Lysosomal cysteine protease,1,Obiol2023,K01365,NA,NA
+chitinase,GH18;chitinase,Digestion,Chitin degradation from bacterial prey cell walls,1,Eckert2013,NA,GH18,GH18
+digestive vacuole hydrolases (general),lysosomal hydrolases,Digestion,Comparative prey digestion,1,Liu2016,NA,NA,NA
+food vacuole (ingestion rate quantification),food vacuole content,Digestion,Food vacuole dynamics / ingestion quantification,1,BallenSegura2018,NA,NA,NA
+lysosome-phagosome fusion (mixotrophic),phagolysosome,Digestion,Phagolysosome formation in predatory mixotrophs,1,Wilken2019,NA,NA,NA
+mucus production / exopolysaccharide secretion,EPS;mucosphere,Egestion,Extracellular organic matter release via mucus secretion,1,Larsson2022,NA,NA,NA
+alkaline phosphatase,ALPL;PhoA,Osmotrophy,Dissolved organic phosphorus scavenging,1,Dyhrman2006,K01077,NA,NA
+alkaline phosphatase (osmotrophy context),ALPL,Osmotrophy,Organic nutrient acquisition via osmotrophy,1,Balch2023,K01077,NA,NA
+dissolved organic carbon transporter,DOC transporter;SLC,Osmotrophy,DOM uptake by osmotrophy,1,Balch2023,NA,NA,NA
+phytoplankton-bacteria carbon exchange,phytoplankton exudate;DOM,Osmotrophy,DOM exchange between phytoplankton and bacteria,1,Focardi2025,NA,NA,NA
+HGT (phagocytosis-enabled gene acquisition),HGT eukaryote,Phagocytosis,HGT facilitated by phagocytic uptake of prey/bacteria,1,VanEtten2020,NA,NA,NA
+actin,ACTB,Phagocytosis,Cytoskeletal rearrangement for prey engulfment,1,Labarre2020,K05692,NA,NA
+clathrin heavy chain,CHC;CLTC,Phagocytosis,Phagosome formation,3,Labarre2020; Massana2021; Obiol2023,K04646,NA,NA
+clathrin light chain,CLTCL1,Phagocytosis,Endocytosis / phagosome coat,1,Liu2015b,K04559,NA,NA
+deep ocean phagocytosis (mesopelagic),deep ocean grazing,Phagocytosis,Mesopelagic protist phagocytic grazing on prokaryotes,1,Rocke2015,NA,NA,NA
+dynamin,DNM,Phagocytosis,Membrane scission / endocytosis,1,Obiol2023,K01528,NA,NA
+dynamin,DNM;GTPase,Phagocytosis,Membrane scission during endocytosis,1,Labarre2020,K01528,NA,NA
+endocytosis (symbiont uptake),phagocytosis;endosymbiosis,Phagocytosis,Phagocytosis as route to endosymbiosis,1,Husnik2021,NA,NA,NA
+food vacuole / phagosome genes (general),phagocytosis gene set,Phagocytosis,Comparative phagocytosis gene expression,1,Lie2018,NA,NA,NA
+food vacuole biology (predatory mixotroph),food vacuole;phagosome,Phagocytosis,Cell biology of food vacuole in predatory mixotrophs,1,Wilken2019,NA,NA,NA
+heterotrophic functional group (phagocytosis-based),constitutive heterotroph,Phagocytosis,Functional group classification by feeding mechanism,1,Mitra2016,NA,NA,NA
+horizontally transferred genes (HGT; phagotrophy-facilitated),HGT phagotrophy,Phagocytosis,HGT acquisition via phagocytic uptake of prey DNA,1,Keeling2024,NA,NA,NA
+mixotrophic carbon balance (Karlodinium),phago:photo ratio,Phagocytosis,Autotrophy/heterotrophy balance in mixotrophic dinoflagellate,1,Adolf2006,NA,NA,NA
+myzocytosis feeding apparatus,myzocytosis;conoid,Phagocytosis,Myzozoan extracellular/intracellular feeding machinery,1,Waller2024,NA,NA,NA
+pallium feeding / myzocytosis (Karlodinium),peduncle;pallium,Phagocytosis,Myzocytosis / pallium feeding mechanism,1,Berge2008,NA,NA,NA
+pallium feeding / tube feeding (dinoflagellate),pallium;peduncle;myzocytosis,Phagocytosis,Dinoflagellate extracellular and intracellular feeding mechanisms,1,Hansen1999,NA,NA,NA
+phagocytosis (Micromonas pusilla),Micromonas phagotrophy,Phagocytosis,Phagocytosis in picoeukaryotic green alga,1,McKieKrisberg2014,NA,NA,NA
+phagocytosis (ancestral eukaryotic origin),Asgard phagocytosis genes,Phagocytosis,Evolutionary origin of eukaryotic phagocytosis,1,DeAnda2026,NA,NA,NA
+phagocytosis (dinoflagellate food web),dinoflagellate grazing,Phagocytosis,Dinoflagellate phagotrophy and food web role,1,Jeong2010,NA,NA,NA
+phagocytosis of hydrocarbon-degrading bacteria,HDB grazing,Phagocytosis,Sediment protist grazing on specialized bacteria,1,Beaudoin2016,NA,NA,NA
+phagocytosis of picocyanobacteria,Prochlorococcus grazing;SIP,Phagocytosis,Phagocytic grazing on picophytoplankton,1,FriasLopez2009,NA,NA,NA
+phagocytosis of picoeukaryotes (SIP),SIP grazing marker,Phagocytosis,Stable isotope probing to identify phagocytic grazers,1,Orsi2018,NA,NA,NA
+phagocytosis of viruses and bacteria (protist mediator),virus grazing;bacteria grazing,Phagocytosis,Protist phagocytosis mediating microbial/viral community structure,1,Schulz2024,NA,NA,NA
+phagocytosis receptor-related,phago receptor,Phagocytosis,Prey recognition / uptake induction,1,Lie2017,NA,NA,NA
+phagocytosis vs photosynthesis trait trade-off,phago:photo trade-off,Phagocytosis,Trait trade-off between phagocytosis and photosynthesis,1,Mitra2024,NA,NA,NA
+phagotrophy (benthic dinoflagellate),Ostreopsis;Prorocentrum;Coolia,Phagocytosis,Phagotrophic behavior in benthic dinoflagellates,1,Almada2017,NA,NA,NA
+phagotrophy/phototrophy regulation (chrysophyte),Poterioochromonas feeding,Phagocytosis,Switching between phagotrophy and phototrophy,1,Sanders1990,NA,NA,NA
+protist-prokaryote interaction (symbiosis/predation),endosymbiosis;phagocytosis,Phagocytosis,Phagocytosis and symbiosis continuum in protists,1,Gast2009,NA,NA,NA
+rhoptry proteins (RON/ROP),ROP;RON,Phagocytosis,Prey/host cell invasion apparatus (Apicomplexa),1,Waller2024,NA,NA,NA
+temperature-driven shift to heterotrophy,phago:photo thermal response,Phagocytosis,Temperature regulation of phagocytosis vs photosynthesis,1,Wilken2013,NA,NA,NA
+anaerobic/microaerophilic heterotrophy (deep-sea protists),Carpediemonas;Trimastix,Scaling up,Heterotrophic protists in anoxic/extreme environments,1,Edgcomb2007,NA,NA,NA
+eukaryome diversity (host-associated),protist symbiont;parasite,Scaling up,Microeukaryote diversity in host-associated contexts,1,Campo2019,NA,NA,NA
+eukaryotic gene atlas,NA,Scaling up,Global biogeographic mapping of protist gene expression,1,Carradec2018,NA,NA,NA
+gene-rich protist transcriptome (dinoflagellate),Alexandrium transcriptome,Scaling up,Dinoflagellate transcriptome baseline,1,Moustafa2010,NA,NA,NA
+heterotrophic protozoa (review),heterotrophic flagellate;ciliate,Scaling up,Heterotrophic planktonic microbial review,1,Caron2015,NA,NA,NA
+heterotrophy (protist microbiome role),protist heterotrophy review,Scaling up,Protist ecological roles in marine microbiome,1,Bachy2022,NA,NA,NA
+heterotrophy as protist trait,trophic mode trait,Scaling up,Trait-based framework for heterotrophic protists,1,Jamy2025,NA,NA,NA
+heterotrophy diversity (climate resilience),heterotrophic protist marker,Scaling up,Climate effects on heterotrophic vs phototrophic protist diversity,1,Ahme2025,NA,NA,NA
+heterotrophy gene expression markers,metatranscriptome markers,Scaling up,Depth-resolved protist metabolic gene expression,1,Gleich2024,NA,NA,NA
+heterotrophy to carbon flux (modeling),gene-to-flux model,Scaling up,Linking microbial gene expression to ocean carbon models,1,Levine2025,NA,NA,NA
+metabolic gene expression (depth-stratified),heterotrophy metatranscriptome,Scaling up,Depth-stratified heterotrophy vs autotrophy gene expression,1,Hu2018,NA,NA,NA
+metatranscriptome marker genes,NA,Scaling up,Transcriptomic methods for marine protists,1,Caron2017,NA,NA,NA
+microbial metabolite flux (heterotrophy context),DOM cycling,Scaling up,Microbial metabolites linking heterotrophy to C cycling,1,Moran2022,NA,NA,NA
+mixotrophic C pump role,mixotrophy carbon export,Scaling up,Mixotrophic contribution to biological carbon pump,1,Mitra2014,NA,NA,NA
+optimal heterotrophy:phototrophy ratio,mixotrophic strategy model,Scaling up,Global modeling of optimal mixotrophic metabolic strategy,1,Moeller2024,NA,NA,NA
+protist genome (heterotrophy gene evolution),protist genomics,Scaling up,Genomic basis of heterotrophic lifestyle evolution,1,Schoenle2025,NA,NA,NA
+resource competition (mixo vs heterotrophic ciliates),ciliate competition,Scaling up,Competitive dynamics: mixotrophic vs heterotrophic ciliates,1,Floeder2024,NA,NA,NA
+stramenopile single-cell gene repertoire,SAG gene set,Scaling up,Uncultured stramenopile functional genomics,1,Seeleuthner2018,NA,NA,NA
+trophic mode gene repertoire (MAG-based),heterotrophic gene set,Scaling up,Trophic mode inference from MAGs,1,Alexander2023,NA,NA,NA
+ESCRT-III (VPS4),VPS4A;SKD1,Vesicle trafficking,Multivesicular body/late endosome sorting,1,Obiol2023,K12196,NA,NA
+PI3-kinase (VPS34),PIK3C3;VPS34,Vesicle trafficking,Phosphoinositide 3-kinase; phagosome signaling,1,Labarre2021,K00914,NA,NA
+RAB7,Rab7A,Vesicle trafficking,Late endosome maturation,1,Labarre2020,K07900,NA,NA
+Rab11 (recycling endosome),RAB11A,Vesicle trafficking,Endosomal recycling,1,Liu2016,K07904,NA,NA
+Rab14,NA,Vesicle trafficking,Phagosome-recycling endosome trafficking,1,Boulais2010,K07893,NA,NA
+Rab5,RAB5A,Vesicle trafficking,Early phagosome maturation,1,Labarre2021,K07889,NA,NA
+VAMP7,TI-VAMP;synaptobrevin,Vesicle trafficking,Phagolysosome fusion,1,Labarre2020,K08488,NA,NA
+WASH complex,WASHC1;FAM21,Vesicle trafficking,Retromer-mediated recycling from endosomes,1,Labarre2021,K12171,NA,NA

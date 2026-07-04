@@ -1,0 +1,454 @@
+CLASSIFICATION_BROAD,CLASSIFICATION_SPECIFIC,CLASS,KEGG,GO,PFAM,NAME_SHORT,NAME_FULL,DESCRIPTION,REFERENCE,WHY,...12,...13,...14,classification_source
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K15113,NA,NA,"SLC25A28_37, MFRN","solute carrier family 25 (mitochondrial iron transporter), member 28/37",Carrier proteins that transport reduced iron into the mitochondria,https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,"Fe-S cluster formation is important because it can serve as an essential co-factor in many cellular function. Formation of Fe-S clusters will be related to available Fe from the environment and be sensitive to the presence of oxidants (Oxygen, ROS, etc.)",NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K04487,NA,NA,iscS,cysteine desulfurase [EC:2.8.1.7],Reduced iron (meta) binds to Isu1/Isu2. This serves as the scaffolding for the synthesis of the ISC,https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K22068,NA,NA,ISCU,"iron-sulfur cluster assembly enzyme ISCU, mitochondrial",Reduced iron (meta) binds to Isu1/Isu2. This serves as the scaffolding for the synthesis of the ISC,https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K22068,NA,NA,ISCU,"iron-sulfur cluster assembly enzyme ISCU, mitochondrial",Reduced iron (meta) binds to Isu1/Isu2. This serves as the scaffolding for the synthesis of the ISC,https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K22069,NA,NA,LYRM4,LYR motif-containing protein 4,Protein in mitochondria and nucleus that binds to cysteine desulfurase and assists in obtaining the Sulfur for the Fe/S clusters,https://www.ncbi.nlm.nih.gov/gene/57128,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K19054,NA,NA,FXN,frataxin [EC:1.16.3.1],Binds to the Isu proteins to assist in delivering metal,https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K22071,NA,NA,FDX2,"ferredoxin-2, mitochondrial",Binds to the Isu proteins to assist in delivering metal,https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K18914,NA,NA,FDXR,adrenodoxin-NADP+ reductase [EC:1.18.1.6],Binds to the Isu proteins to assist in delivering metal,https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K04043,NA,NA,dnaK,molecular chaperone DnaK,"Chaperone system, for transporting ISC assembly to apoproteins",https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K04043,NA,NA,dnaK,molecular chaperone DnaK,"Chaperone system, for transporting ISC assembly to apoproteins",https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K04043,NA,NA,dnaK,molecular chaperone DnaK,"Chaperone system, for transporting ISC assembly to apoproteins",https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K04082,NA,NA,hscB,molecular chaperone HscB,"Chaperone system, for transporting ISC assembly to apoproteins",https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K14001,NA,NA,SIL1,nucleotide exchange factor SIL1,"Chaperone system, for transporting ISC assembly to apoproteins",https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K07390,NA,NA,grxD,monothiol glutaredoxin,Iron sensing protein; especially for iron starvation,https://pmc.ncbi.nlm.nih.gov/articles/PMC6762210/,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K22063,NA,NA,ISCA1,iron-sulfur cluster assembly 1,Biosynthesis of ISC,https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K22072,NA,NA,ISCA2,iron-sulfur cluster assembly 2,Biosynthesis of ISC,https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K22073,NA,NA,IBA57,"transferase CAF17, mitochondrial [EC:2.1.-.-]",Transporting ISC,https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K22074,NA,NA,NFU1,"NFU1 iron-sulfur cluster scaffold homolog, mitochondrial",Biosynthesis of ISC,https://www.sciencedirect.com/science/article/pii/S0968000405000290#fig2,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K22066,NA,NA,BOLA1,BolA-like protein 1,ISC Chaperone to cytosol,https://www.sciencedirect.com/science/article/pii/S0021925820357082,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K22075,NA,NA,BOLA3,BolA-like protein 3,ISC Chaperone to cytosol,https://www.sciencedirect.com/science/article/pii/S0021925820357082,NA,NA,NA,NA,manual
+Cellular function,Fe-S cluster formation,Fe-S cluster formation,K23503,NA,NA,SFXN5,sideroflexin-5,Citrate transport and mitochondrial transmembrane transport,https://www.ncbi.nlm.nih.gov/gene?Db=gene&Cmd=DetailsSearch&Term=94097,NA,NA,NA,NA,manual
+Nutrient processing,GS/GOGAT,GS/GOGAT,K00262,NA,NA,gdhA,glutamate dehydrogenase (NADP+),NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,GS/GOGAT,GS/GOGAT,K00284,NA,NA,GLT(ferredoxin),glutamate synthase (ferredoxin),NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,GS/GOGAT,GS/GOGAT,K00264,NA,NA,GLT1,glutamate synthase (NADPH/NADH),NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,GS/GOGAT,GS/GOGAT,K01425,NA,NA,"glsA, GLS",glutaminase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,GS/GOGAT,GS/GOGAT,K01915,NA,NA,"glnA, GLUL",glutamine synthetase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Inorganic N uptake and assimilation,Inorganic N uptake and assimilation,K07674,NA,NA,narQ,Nitrate/Nitrite sensor kinase,NA,Sensor,NA,NA,NA,NA,manual
+Nutrient processing,Inorganic N uptake and assimilation,Inorganic N uptake and assimilation,K03320,NA,NA,"amt, AMT, MEP","ammonium transporter, Amt family",NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Inorganic N uptake and assimilation,Inorganic N uptake and assimilation,K00326,NA,NA,cytochrome-b5 reductase,cytochrome-b5 reductase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Inorganic N uptake and assimilation,Inorganic N uptake and assimilation,K00284,NA,NA,GLT(ferredoxin),glutamate synthase (ferredoxin),NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Inorganic N uptake and assimilation,Inorganic N uptake and assimilation,K00264,NA,NA,GLT1,glutamate synthase (NADPH/NADH),NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Inorganic N uptake and assimilation,Inorganic N uptake and assimilation,K01915,NA,NA,"glnA, GLUL",glutamine synthetase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Inorganic N uptake and assimilation,Inorganic N uptake and assimilation,K00508,NA,NA,linoleoyl-CoA desaturase,linoleoyl-CoA desaturase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Inorganic N uptake and assimilation,Inorganic N uptake and assimilation,K01285,NA,NA,PRCP,lysosomal Pro-X carboxypeptidase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Inorganic N uptake and assimilation,Inorganic N uptake and assimilation,K02575,NA,NA,"NRT, narK, nrtP, nasA","MFS transporter, NNP family, nitrate/nitrite transporter",NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Inorganic N uptake and assimilation,Inorganic N uptake and assimilation,K10534,NA,NA,NR,nitrate reductase (NAD(P)H),NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Inorganic N uptake and assimilation,Inorganic N uptake and assimilation,K13076,NA,NA,SLD,sphingolipid 8-(E)-desaturase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Inorganic N uptake and assimilation,Inorganic N uptake and assimilation,K00387,NA,NA,SUOX,sulfite oxidase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Nitrate reduction (assimilatory),Nitrate reduction (assimilatory),K00372,NA,NA,nasA,assimilatory nitrate reductase catalytic subunit,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Nitrate reduction (assimilatory),Nitrate reduction (assimilatory),K00366,NA,NA,nirA,ferredoxin-nitrite reductase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Nitrate reduction (assimilatory),Nitrate reduction (assimilatory),K10534,NA,NA,NR,nitrate reductase (NAD(P)H),NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Nitrate reduction (assimilatory),Nitrate reduction (assimilatory),K17877,NA,NA,NIT-6,nitrite reductase (NAD(P)H),NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Organic N uptake and assimilation,Organic N uptake and assimilation,K01755,NA,NA,"argH, ASL",argininosuccinate lyase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Organic N uptake and assimilation,Organic N uptake and assimilation,K01940,NA,NA,"argG, ASS1",argininosuccinate synthase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Organic N uptake and assimilation,Organic N uptake and assimilation,K00609,NA,NA,"pyrB, PYR2",aspartate carbamoyltransferase catalytic subunit,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Organic N uptake and assimilation,Organic N uptake and assimilation,K01948,NA,NA,CPS1,carbamoyl-phosphate synthase (ammonia),NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Organic N uptake and assimilation,Organic N uptake and assimilation,K11540,NA,NA,CAD,carbamoyl-phosphate synthase / aspartate carbamoyltransferase / dihydroorotase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Organic N uptake and assimilation,Organic N uptake and assimilation,K01955,NA,NA,"carB, CPA2",carbamoyl-phosphate synthase large subunit,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Organic N uptake and assimilation,Organic N uptake and assimilation,K01679,NA,NA,fumC,"fumarate hydratase, class II",NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Organic N uptake and assimilation,Organic N uptake and assimilation,K00611,NA,NA,"OTC, argF, argI",ornithine carbamoyltransferase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Organic N uptake and assimilation,Organic N uptake and assimilation,K01427,NA,NA,URE,urease,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Organic N uptake and assimilation,Organic N uptake and assimilation,K03189,NA,NA,ureG,urease accessory protein,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Organic N uptake and assimilation,Organic N uptake and assimilation,K03190,NA,NA,"ureD, ureH",urease accessory protein,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,P metabolism,P metabolism,K01081,NA,NA,5-nucleotidase,5-nucleotidase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,P metabolism,P metabolism,K01113,NA,NA,phoD,alkaline phosphatase D,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,P metabolism,P metabolism,K06653,NA,NA,PHO81,CDK inhibitor PHO81,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,P metabolism,P metabolism,K16275,NA,NA,"BAH, NLA",E3 ubiquitin-protein ligase BAH,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,P metabolism,P metabolism,K18696,NA,NA,GDE1,glycerophosphodiester phosphodiesterase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,P metabolism,P metabolism,K14430,NA,NA,PHO87_91,phosphate transporter,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,P metabolism,P metabolism,K00948,NA,NA,"PRPS, prsA",ribose-phosphate pyrophosphokinase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,P metabolism,P metabolism,K14379,NA,NA,ACP5,tartrate-resistant acid phosphatase type 5,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Glycolysis; TCA cycle,Carbon fixation,K00161,NA,NA,"PDHA, pdhA",pyruvate dehydrogenase E1 component alpha subunit,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Glycolysis; TCA cycle,Carbon fixation,K00162,NA,NA,"PDHB, pdhB",pyruvate dehydrogenase E1 component beta subunit,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Urea cycle,Urea cycle,K01476,NA,NA,"rocF, arg",arginase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Urea cycle,Urea cycle,K01755,NA,NA,"argH, ASL",argininosuccinate lyase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Urea cycle,Urea cycle,K01940,NA,NA,"argG, ASS1",argininosuccinate synthase,NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Urea cycle,Urea cycle,K01948,NA,NA,CPS1,carbamoyl-phosphate synthase (ammonia),NA,NA,NA,NA,NA,NA,manual
+Nutrient processing,Urea cycle,Urea cycle,K00611,NA,NA,"OTC, argF, argI",ornithine carbamoyltransferase,NA,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,NA,NA,15858,NA,NA,Nucleoside transport,"Overall, ENT transporters are diverse within parasitic protists. These transporters allow parasites to salvage a lot of different nucleosides and nucleobases from the host so the parasite can form their nucleotides.",Landfear et al. 2004; Dean et al. 2014,NA,NA,NA,NA,manual
+Parasitism,Parasitism,NA,NA,15867,NA,NA,ATP Transport,Set of key transporters for parasite to scavenge nutrients from host,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,NA,NA,8643,NA,NA,Nucleotide-sugar transport,"Overall, ENT transporters are diverse within parasitic protists. These transporters allow parasites to salvage a lot of different nucleosides and nucleobases from the host so the parasite can form their nucleotides.",NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K23537,NA,NA,nupA,general nucleoside transport system ATP-binding protein,"Nutrients are imported from the host as either nucleosides or nucleobases, either of which can serve as a purine source for the parasite",Landfear et al. 2004,Transport nutrients from host into parasite,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K18278,NA,NA,THI5,pyrimidine precursor biosynthesis enzyme,Parasites use this for nucleotide synthesis after obtaining it from the host,Li et al. 2021,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K20656,NA,NA,TMEM189,plasmanylethanolamine desaturase,"Plasmalogen biosynthesis is important for membrane integrity, which is applicable to parasites",https://doi.org/10.1016/s0166-6851(98)00165-0,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K07106,NA,NA,muQ,N-acetylmuramic acid 6-phosphate etherase,Enzyme related to digesting bacterial cell walls,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K00102Ê,NA,NA,"LDHD, dld",D-lactate dehydrogenase,Enzyme related to digesting bacterial cell walls,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K01775,NA,NA,Alr,alanine racemase,Enzyme related to digesting bacterial cell walls,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K01798,NA,NA,alr-murF,Alr-MurF fusion protein,Enzyme related to digesting bacterial cell walls,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K06141,NA,NA,tsgA,"MFS transporter, TsgA protein",MFS = Major Facilitator Superfamily of transporters that will help move substrates across membranes.,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K05680,NA,NA,ABCG4,"ATP-binding cassette, subfamily G (WHITE), member 4",NA,"Toxins, Drugs, phospholipids",Host cytosol into parasite; localized ABC transporter,from Dean et al. fig 2.,ABC transporrters overall are widely distributed in parasitic protists and they are also the largest transporter family overall (Kay et al. 2012),NA,manual
+Parasitism,Parasitism,Parasitism,K05665,NA,NA,MRP1,"ATP-binding cassette, subfamily C (CFTR/MRP), member 1",NA,"Toxins, Drugs, phospholipids",Host cytosol into parasite; localized ABC transporter,from Dean et al. fig 2.,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K14613,NA,NA,SLC46A1,"MFS transporter, folate transporter",NA,from Dean et al. fig 2.,Host cytosol into parasite,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K15115,NA,NA,"SLC25A32, MFT",solute carrier family 25 (mitochondrial folate transporter),NA,from Dean et al. fig 2.,Host cytosol into parasite,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K14609,NA,NA,"SLC19A1, RFC1","solute carrier family 19 (folate transporter), member 1",NA,from Dean et al. fig 2.,Host cytosol into parasite,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K07784,NA,NA,uhpT,"MFS transporter, OPA family, hexose phosphate transport protein UhpT",NA,from Dean et al. fig 2.,Hexose sugar transporter,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K08139,NA,NA,HXT,"MFS transporter, SP family, sugar:H+ symporter",NA,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K01997,NA,NA,livH,"ABC-type branched-chain amino acid transport system, permease component",NA,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K01995,NA,NA,livG,"ABC-type branched-chain amino acid transport system, ATPase component",NA,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K01996,NA,NA,livF,"ABC-type branched-chain amino acid transport system, ATPase component",NA,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K01999,NA,NA,livJ,"ABC-type branched-chain amino acid transport system, substrate-binding component",NA,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K10002,NA,NA,gltK,"Glutamate and aspartate transport system, permease component",NA,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K10003,NA,NA,gltJ,"Glutamate and aspartate transport system, permease component",NA,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K10004,NA,NA,gltL,"Glutamate and aspartate transport system, ATPase component",NA,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K10001,NA,NA,gltI,"Glutamate and aspartate transport system, substrate-binding component",NA,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,NA,NA,Mitochondrial carrier protein,HMP31,PF00153,NA,from Dean et al. fig 2.,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,NA,NA,TLC ATP/ADP transporter,AAC,PF03219,NA,from Dean et al. fig 2.,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K09240,NA,NA,CAT8,transcriptional regulatory protein CAT8,NA,Wan et al. 2008,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K11736,NA,NA,proY,proline-specific permease ProY,"For parasites, this is a permease that transports proline. Likely as a stress response and survuval tactic",Bringaud et al. 2012,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K09043,NA,NA,YAP,AP-1-like transcription factor,Involved in stress response to environment. May see this in parasitic eukaryotes (survival and virulence),Cartwright et al. 2013,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K15975,NA,NA,K15975,glyoxalase family protein,Response to stress via detoxification of methylglyoxal,https://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=176659,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K18470,NA,NA,"ARHGAP1, CDC42GAP",Rho GTPase-activating protein 1,Rho GTPase,"May & Machesky 2001, Lai et al. 2008, Flannagan et al. 2012",NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K13736,NA,NA,ARHGAP10,Rho GTPase-activating protein 10,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20635,NA,NA,ARHGAP11,Rho GTPase-activating protein 11,Rho GTPase,Castellano et al. 2001; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20636,NA,NA,ARHGAP12_27,Rho GTPase-activating protein 12/27,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20637,NA,NA,ARHGAP15,Rho GTPase-activating protein 15,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20638,NA,NA,"ARHGAP17, RICH1",Rho GTPase-activating protein 17,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20639,NA,NA,ARHGAP18_28_40,Rho GTPase-activating protein 18/28/40,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20641,NA,NA,ARHGAP20,Rho GTPase-activating protein 20,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20315,NA,NA,ARHGAP21_23,Rho GTPase-activating protein 21/23,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20642,NA,NA,ARHGAP22_24_25,Rho GTPase-activating protein 22/24/25,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20071,NA,NA,"ARHGAP26, GRAF",Rho GTPase-activating protein 26,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20644,NA,NA,ARHGAP29_45,Rho GTPase-activating protein 29/45,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20647,NA,NA,ARHGAP32,Rho GTPase-activating protein 32,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K05732,NA,NA,"ARHGAP35, GRLF1",glucocorticoid receptor DNA-binding factor 1,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20649,NA,NA,ARHGAP39,Rho GTPase-activating protein 39,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20122,NA,NA,ARHGAP4,Rho GTPase-activating protein 4,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20651,NA,NA,"ARHGAP42, GRAF3",Rho GTPase-activating protein 42,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K21067,NA,NA,"ARHGAP44, RICH2",Rho GTPase-activating protein 44,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K13709,NA,NA,ARHGAP5,Rho GTPase-activating protein 5,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20631,NA,NA,ARHGAP6,Rho GTPase-activating protein 6,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20633,NA,NA,"ARHGAP8, BPGAP1",Rho GTPase-activating protein 8,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Rho GTPase,K20634,NA,NA,ARHGAP9,Rho GTPase-activating protein 9,Rho GTPase,Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Actin-related,K11652,NA,NA,ACTL6B,actin-like protein 6B,Actin-related,NA,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Actin-related,K16576,NA,NA,"ACTR10, ARP11",actin-related protein 10,Actin-related,NA,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Actin-related,K11672,NA,NA,"ACTR5, ARP5, INO80M",actin-related protein 5,Actin-related,NA,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Arp2/3 complex,K05757,NA,NA,ARPC1A_B,"actin related protein 2/3 complex, subunit 1A/1B",Arp2/3 complex,Yutin et al. 2009; Goley & Welch 2006,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Arp2/3 complex,K05758,NA,NA,ARPC2,"actin related protein 2/3 complex, subunit 2",Arp2/3 complex,Yutin et al. 2009; Goley & Welch 2006,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Arp2/3 complex,K05756,NA,NA,ARPC3,"actin related protein 2/3 complex, subunit 3",Arp2/3 complex,Yutin et al. 2009; Goley & Welch 2006,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Arp2/3 complex,K05755,NA,NA,ARPC4,"actin related protein 2/3 complex, subunit 4",Arp2/3 complex,Yutin et al. 2009; Goley & Welch 2006,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Arp2/3 complex,K05754,NA,NA,ARPC5,"actin related protein 2/3 complex, subunit 5",Arp2/3 complex,Yutin et al. 2009; Goley & Welch 2006,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Arp2/3 complex,K17260,NA,NA,"ACTR2, ARP2",actin-related protein 2,Arp2/3 complex,Yutin et al. 2009; Goley & Welch 2006,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Arp2/3 complex,K18584,NA,NA,"ACTR3, ARP3",actin-related protein 3,Arp2/3 complex,Yutin et al. 2009; Goley & Welch 2006,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,WASP / WAVE,K05747,NA,NA,WAS,Wiskott-Aldrich syndrome protein,WASP / WAVE,Yutin et al. 2009; Goley & Welch 2006,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,WASP / WAVE,K23612,NA,NA,WASL,neural Wiskott-Aldrich syndrome protein,WASP / WAVE,Yutin et al. 2009; Goley & Welch 2006,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,WASP / WAVE,K05753,NA,NA,WASF1,"WAS protein family, member 1",WASP / WAVE,Yutin et al. 2009; Goley & Welch 2006,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,WASP / WAVE,K05748,NA,NA,WASF2,"WAS protein family, member 2",WASP / WAVE,Yutin et al. 2009; Goley & Welch 2006,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,WASP / WAVE,K06083,NA,NA,WASF3,"WAS protein family, member 3",WASP / WAVE,Yutin et al. 2009; Goley & Welch 2006,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Actin-related,K11662,NA,NA,"ACTR6, ARP6",actin-related protein 6,Actin-related,NA,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Actin-related,K11673,NA,NA,"ACTR8, ARP8, INO80N",actin-related protein 8,Actin-related,NA,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Actin-related,K10355,NA,NA,ACTF,"actin, other eukaryote",Actin-related,NA,NA,NA,NA,NA,manual
+Phagotrophy,Actin polymerization,Actin-related,K20048,NA,NA,END3,actin cytoskeleton-regulatory complex protein END3,Actin-related,NA,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Cathepsin,K13289,NA,NA,"CTSA, CPY",cathepsin A (carboxypeptidase C) [EC:3.4.16.5],Cathepsin,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Cathepsin,K01363,NA,NA,CTSB,cathepsin B [EC:3.4.22.1],Cathepsin,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Cathepsin,K01275,NA,NA,CTSC,cathepsin C [EC:3.4.14.1],Cathepsin,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Cathepsin,K01379,NA,NA,CTSD,cathepsin D [EC:3.4.23.5],Cathepsin,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Cathepsin,K01382,NA,NA,CTSE,cathepsin E [EC:3.4.23.34],Cathepsin,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Cathepsin,K01373,NA,NA,CTSF,cathepsin F [EC:3.4.22.41],Cathepsin,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Cathepsin,K01319,NA,NA,CTSG,cathepsin G [EC:3.4.21.20],Cathepsin,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Cathepsin,K01366,NA,NA,CTSH,cathepsin H [EC:3.4.22.16],Cathepsin,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Cathepsin,K01371,NA,NA,CTSK,cathepsin K [EC:3.4.22.38],Cathepsin,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Cathepsin,K01365,NA,NA,CTSL,cathepsin L [EC:3.4.22.15],Cathepsin,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Cathepsin,K01374,NA,NA,CTSO,cathepsin O [EC:3.4.22.42],Cathepsin,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Cathepsin,K01368,NA,NA,CTSS,cathepsin S [EC:3.4.22.27],Cathepsin,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Cathepsin,K08569,NA,NA,CTSW,cathepsin W [EC:3.4.22.-],Cathepsin,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Cathepsin,K08568,NA,NA,CTSZ,cathepsin X [EC:3.4.18.1],Cathepsin,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Chitinase,Chitinase,K00698,NA,NA,CHS1,chitin synthase,Chitinase,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Chitinase,Chitinase,K01183,NA,NA,chitinase,chitinase,Chitinase,Labarre et al. 2019; Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Early phagosome,K07887,NA,NA,Rab-5A,Ras-related protein Rab-5A,Early phagosome,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Early phagosome,K07888,NA,NA,Rab-5B,Ras-related protein Rab-5B,Early phagosome,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Early phagosome,K07889,NA,NA,Rab-5C,Ras-related protein Rab-5C,Early phagosome,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Early phagosome,K12478,NA,NA,early endosome antigen 1,early endosome antigen 1,Early phagosome,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Early phagosome,K06503,NA,NA,transferrin receptor,transferrin receptor,Early phagosome,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Early phagosome,K00914,NA,NA,phosphatidylinositol 3-kinase,phosphatidylinositol 3-kinase [EC:2.7.1.137],Early phagosome,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Early phagosome,K13813,NA,NA,syntaxin 12/13,syntaxin 12/13,Early phagosome,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Early phagosome,K08057,NA,NA,calreticulin,calreticulin,Early phagosome,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Early phagosome,K08054,NA,NA,calnexin,calnexin,Early phagosome,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K12492,NA,NA,ARFGAP1,ADP-ribosylation factor GTPase-activating protein 1,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K12562,NA,NA,AMPH,Amphiphysin,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K11824,NA,NA,AP2A,AP-2 complex subunit alpha,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K12489,NA,NA,ACAP,Arf-GAP with coiled-coil ANK repeat and PH domain-containing protein,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K18442,NA,NA,"ARFGEF, BIG",Brefeldin A-inhibited guanine nucleotide-exchange protein,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K12194,NA,NA,"CHMP4, SNF7, VPS32",Charged multivesicular body protein 4,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K12198,NA,NA,"CHMP5, VPS60",Charged multivesicular body protein 5,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K04646,NA,NA,CLTC,Clathrin heavy chain,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K12483,NA,NA,EHD1,EH domain-containing protein 1,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K12471,NA,NA,EPN,Epsin,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K13649,NA,NA,FOLR,Folate receptor,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K18443,NA,NA,GBF1,Golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K03283,NA,NA,HSPA1_8,Heat shock 70kDa protein 1/8,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K12200,NA,NA,"PDCD6IP, ALIX, RIM20",Programmed cell death 6-interacting protein,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K07889,NA,NA,RAB5C,Ras-related protein Rab-5C,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K07901,NA,NA,"RAB8A, MEL",Ras-related protein Rab-8A,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K17917,NA,NA,SNX1_2,Sorting nexin-1/2,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K12486,NA,NA,SMAP,Stromal membrane-associated protein âÃÃ¶âÃâÂ¨,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K18464,NA,NA,"RTSC, SPG8",WASH complex subunit strumpellin,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K00889,NA,NA,PIP5K,1-phosphatidylinositol-4-phosphate 5-kinase,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K21289,NA,NA,PIK3CG,"phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma [EC:2.7.1.153]",NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K05692,NA,NA,actin beta/gamma 1,actin beta/gamma 1,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K13882,NA,NA,coronin-1A,coronin-1A,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K13505,NA,NA,vesicle-associated membrane protein 3,vesicle-associated membrane protein 3,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K01115,NA,NA,phospholipase D1/2,phospholipase D1/2,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K16860,NA,NA,phospholipase D3/4,phospholipase D3/4,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K23484,NA,NA,dynamin 2,NA,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K04393,NA,NA,Cdc42,cell division control protein 42,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Endocytosis,Endocytosis,K04392,NA,NA,RAC1,Ras-related C3 botulinum toxin substrate 1,NA,McKie-Krisberg et al. 2018; Yutin et al. 2009,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K00645,NA,NA,fabD,[acyl-carrier-protein] S-malonyltransferase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K10251,NA,NA,"HSD17B12, KAR, IFA38",17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K01716,NA,NA,fabA,3-hydroxyacyl-[acyl-carrier protein] dehydratase / trans-2-decenoyl-[acyl-carrier protein] isomerase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K02372,NA,NA,fabZ,3-hydroxyacyl-[acyl-carrier-protein] dehydratase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K00022,NA,NA,HADH,3-hydroxyacyl-CoA dehydrogenase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K15397,NA,NA,KCS,3-ketoacyl-CoA synthase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K00059,NA,NA,fabG,3-oxoacyl-[acyl-carrier protein] reductase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K00647,NA,NA,fabB,3-oxoacyl-[acyl-carrier-protein] synthase I,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K09458,NA,NA,fabF,3-oxoacyl-[acyl-carrier-protein] synthase II,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K00648,NA,NA,fabH,3-oxoacyl-[acyl-carrier-protein] synthase III,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K07509,NA,NA,HADHB,acetyl-CoA acyltransferase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K07508,NA,NA,ACAA2,acetyl-CoA acyltransferase 2,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K11262,NA,NA,ACACA,acetyl-CoA carboxylase / biotin carboxylase 1,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K02160,NA,NA,"accB, bccP",acetyl-CoA carboxylase biotin carboxyl carrier protein,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K01962,NA,NA,accA,acetyl-CoA carboxylase carboxyl transferase subunit alpha,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K01963,NA,NA,accD,acetyl-CoA carboxylase carboxyl transferase subunit beta,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K01961,NA,NA,accC,"acetyl-CoA carboxylase, biotin carboxylase subunit",NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K11263,NA,NA,bccA,"acetyl-CoA/propionyl-CoA carboxylase, biotin carboxylase, biotin carboxyl carrier protein",NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K10247,NA,NA,ELOVL1,elongation of very long chain fatty acids protein 1,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K10205,NA,NA,ELOVL2,elongation of very long chain fatty acids protein 2,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K10249,NA,NA,ELOVL4,elongation of very long chain fatty acids protein 4,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K10244,NA,NA,ELOVL5,elongation of very long chain fatty acids protein 5,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K10203,NA,NA,ELOVL6,elongation of very long chain fatty acids protein 6,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K10250,NA,NA,ELOVL7,elongation of very long chain fatty acids protein 7,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K00209,NA,NA,"fabV, ter",enoyl-[acyl-carrier protein] reductase / trans-2-enoyl-CoA reductase (NAD+),NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K00208,NA,NA,fabI,enoyl-[acyl-carrier protein] reductase I,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K02371,NA,NA,fabK,enoyl-[acyl-carrier protein] reductase II,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K07511,NA,NA,ECHS1,enoyl-CoA hydratase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K07515,NA,NA,HADHA,enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K10246,NA,NA,ELO3,fatty acid elongase 3,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K00667,NA,NA,FAS2,"fatty acid synthase subunit alpha, fungi type",NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K00668,NA,NA,FAS1,"fatty acid synthase subunit beta, fungi type",NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K00665,NA,NA,FASN,"fatty acid synthase, animal type",NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K07512,NA,NA,"MECR, NRBF1",mitochondrial trans-2-enoyl-CoA reductase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K10703,NA,NA,"PHS1, PAS2",very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid biosynthesis,Fatty acid biosynthesis,K10258,NA,NA,"TER, TSC13, CER10",very-long-chain enoyl-CoA reductase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00232,NA,NA,"ACOX1, ACOX3",acyl-CoA oxidase [EC:1.3.3.6],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K06445,NA,NA,fadE,acyl-CoA dehydrogenase [EC:1.3.99.-],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00249,NA,NA,"ACADM, acd",acyl-CoA dehydrogenase [EC:1.3.8.7],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00255,NA,NA,ACADL,long-chain-acyl-CoA dehydrogenase [EC:1.3.8.8],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K09479,NA,NA,ACADVL,very long chain acyl-CoA dehydrogenase [EC:1.3.8.9],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K01692,NA,NA,"paaF, echA",enoyl-CoA hydratase [EC:4.2.1.17],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00022,NA,NA,HADH,3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K07516,NA,NA,fadN,3-hydroxyacyl-CoA dehydrogenase [EC:1.1.1.35],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K10527,NA,NA,MFP2,enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.35 1.1.1.211],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K07514,NA,NA,EHHADH,"enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase [EC:4.2.1.17 1.1.1.35 5.3.3.8]",NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K01825,NA,NA,fadB,3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase [EC:1.1.1.35 4.2.1.17 5.1.2.3 5.3.3.8],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K01782,NA,NA,fadJ,3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K07515,NA,NA,HADHA,enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase [EC:4.2.1.17 1.1.1.211],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00248,NA,NA,"ACADS, bcd",butyryl-CoA dehydrogenase [EC:1.3.8.1],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00632,NA,NA,"fadA, fadI",acetyl-CoA acyltransferase [EC:2.3.1.16],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K07508,NA,NA,ACAA2,acetyl-CoA acyltransferase 2 [EC:2.3.1.16],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K07509,NA,NA,HADHB,acetyl-CoA acyltransferase [EC:2.3.1.16],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K07513,NA,NA,ACAA1,acetyl-CoA acyltransferase 1 [EC:2.3.1.16],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00626,NA,NA,atoB,acetyl-CoA C-acetyltransferase [EC:2.3.1.9],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K01897,NA,NA,"ACSL, fadD",long-chain acyl-CoA synthetase [EC:6.2.1.3],NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K05894,NA,NA,OPR,12-oxophytodienoic acid reductase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00022,NA,NA,HADH,3-hydroxyacyl-CoA dehydrogenase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K07516,NA,NA,fadN,3-hydroxyacyl-CoA dehydrogenase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K01782,NA,NA,fadJ,3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K01825,NA,NA,fadB,3-hydroxyacyl-CoA dehydrogenase / enoyl-CoA hydratase / 3-hydroxybutyryl-CoA epimerase / enoyl-CoA isomerase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00019,NA,NA,bdh,3-hydroxybutyrate dehydrogenase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K01574,NA,NA,adc,acetoacetate decarboxylase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00632,NA,NA,"fadA, fadI",acetyl-CoA acyltransferase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K07509,NA,NA,HADHB,acetyl-CoA acyltransferase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K07513,NA,NA,ACAA1,acetyl-CoA acyltransferase 1,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K07508,NA,NA,ACAA2,acetyl-CoA acyltransferase 2,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00626,NA,NA,atoB,acetyl-CoA C-acetyltransferase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00249,NA,NA,"ACADM, acd",acyl-CoA dehydrogenase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K06445,NA,NA,fadE,acyl-CoA dehydrogenase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00232,NA,NA,"ACOX1, ACOX3",acyl-CoA oxidase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K10525,NA,NA,AOC,allene oxide cyclase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K01692,NA,NA,"paaF, echA",enoyl-CoA hydratase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K07511,NA,NA,ECHS1,enoyl-CoA hydratase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K07514,NA,NA,EHHADH,"enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase",NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K07515,NA,NA,HADHA,enoyl-CoA hydratase / long-chain 3-hydroxyacyl-CoA dehydrogenase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K10527,NA,NA,MFP2,enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K01640,NA,NA,"HMGCL, hmgL",hydroxymethylglutaryl-CoA lyase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K01641,NA,NA,HMG-CoA synthase,hydroxymethylglutaryl-CoA synthase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00454,NA,NA,LOX2S,lipoxygenase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K01897,NA,NA,"ACSL, fadD",long-chain acyl-CoA synthetase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00255,NA,NA,ACADL,long-chain-acyl-CoA dehydrogenase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K15013,NA,NA,ACSBG,long-chain-fatty-acid--CoA ligase ACSBG,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K09479,NA,NA,ACADVL,very long chain acyl-CoA dehydrogenase,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K05939,NA,NA,aas,acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase / long-chain-fatty-acid--[acyl-carrier-protein] ligase [EC:2.3.1.40 6.2.1.20],added to FA breakdown; KEGG pathway map,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K20495,NA,NA,CYP704B1,long-chain fatty acid omega-monooxygenase [EC:1.14.14.80],added to FA breakdown; KEGG pathway map,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K15401,NA,NA,CYP86A1,fatty acid omega-hydroxylase [EC:1.14.-.-],added to FA breakdown; KEGG pathway map,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K00252,NA,NA,"GCDH, gcdH",glutaryl-CoA dehydrogenase,added to FA breakdown; KEGG pathway map,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K08765,NA,NA,CPT1A,"carnitine O-palmitoyltransferase 1, liver isoform [EC:2.3.1.21]",added to FA breakdown; KEGG pathway map,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K08766,NA,NA,CPT2,carnitine O-palmitoyltransferase 2 [EC:2.3.1.21],added to FA breakdown; KEGG pathway map,NA,NA,NA,NA,NA,manual
+Phagotrophy,Fatty acid breakdown,Fatty acid breakdown,K19524,NA,NA,CPT1C,"carnitine O-palmitoyltransferase 1, brain isoform [EC:2.3.1.21]",added to FA breakdown; KEGG pathway map,NA,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K01288,NA,NA,KEX1,carboxypeptidase D,Lysosome associated,NA,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K01285,NA,NA,PRCP,lysosomal Pro-X carboxypeptidase,Lysosome associated,NA,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K06002,NA,NA,PGA,pepsin A,Lysosome associated,Rubin et al. 2019,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K09646,NA,NA,SCPEP1,serine carboxypeptidase 1,Lysosome associated,NA,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K16296,NA,NA,SCPL-I,serine carboxypeptidase-like clade I,Lysosome associated,NA,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K16297,NA,NA,SCPL-II,serine carboxypeptidase-like clade II,Lysosome associated,NA,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K16298,NA,NA,SCPL-IV,serine carboxypeptidase-like clade IV,Lysosome associated,NA,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K12391,NA,NA,AP1G1,AP-1 complex subunit gamma-1,Lysosome transport,Mckie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K12396,NA,NA,AP3D1,AP-3 complex subunit delta-1,Lysosome transport,Mckie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K12400,NA,NA,AP4E1,AP-4 complex subunit epsilon-1,Lysosome transport,Mckie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K05656,NA,NA,ABCB9 TAPL,ATP-binding cassette subfamily B (MDR/TAP) member 9,Lysosome transport,Mckie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K04646,NA,NA,CLTC,Clathrin heavy chain,Lysosome transport,Mckie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K01074,NA,NA,PPT,Palmitoyl-protein thioesterase,Lysosome transport,Mckie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K02155,NA,NA,ATPeV0C ATP6L,V-type H+-transporting ATPase 16kDa proteolipid subunit,Lysosome transport,Mckie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K03661,NA,NA,ATPeV0B ATP6F,V-type H+-transporting ATPase 21kDa proteolipid subunit,Lysosome transport,Mckie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K02154,NA,NA,ATPeV0A ATP6N,V-type H+-transporting ATPase subunit a,Lysosome transport,Mckie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K02146,NA,NA,ATPeV0D ATP6D,V-type H+-transporting ATPase subunit d,Lysosome transport,Mckie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Lysosome associated,Lysosome associated,K02144,NA,NA,ATPeV1H,V-type H+-transporting ATPase subunit H,Lysosome transport,Mckie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,"Motility, prey recognition, cytoskeleton","Motility, prey recognition, cytoskeleton",K06560,NA,NA,"mannose receptor, C type",NA,NA,Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,"Motility, prey recognition, cytoskeleton","Motility, prey recognition, cytoskeleton",K06256,NA,NA,CD44,NA,NA,Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,"Motility, prey recognition, cytoskeleton","Motility, prey recognition, cytoskeleton",K06259,NA,NA,CD36 antigen,NA,NA,Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,"Motility, prey recognition, cytoskeleton","Motility, prey recognition, cytoskeleton",K00914,NA,NA,"PIK3C3, VPS34",phosphatidylinositol 3-kinase [EC:2.7.1.137],NA,Flannagan et al. 2012; Niedergang and Grinstein 2018,NA,NA,NA,NA,manual
+Phagotrophy,"Motility, prey recognition, cytoskeleton","Motility, prey recognition, cytoskeleton",K01114,NA,NA,phospholipase C,NA,NA,Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,"Motility, prey recognition, cytoskeleton","Motility, prey recognition, cytoskeleton",K05700,NA,NA,vinculin,NA,NA,Flannagan et al. 2012,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K12182,NA,NA,hepatocyte growth factor-regulated tyrosine kinase substrate,hepatocyte growth factor-regulated tyrosine kinase substrate,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K07897,NA,NA,Ras-related protein Rab-7A,Ras-related protein Rab-7A,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K07898,NA,NA,Ras-related protein Rab-7B,Ras-related protein Rab-7B,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K13883,NA,NA,Rab-interacting lysosomal protein,Rab-interacting lysosomal protein,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K10413,NA,NA,"dynein heavy chain 1, cytosolic","dynein heavy chain 1, cytosolic",Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K10414,NA,NA,"dynein heavy chain 2, cytosolic","dynein heavy chain 2, cytosolic",Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K10415,NA,NA,"dynein intermediate chain, cytosolic","dynein intermediate chain, cytosolic",Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K10416,NA,NA,"dynein light intermediate chain 1, cytosolic","dynein light intermediate chain 1, cytosolic",Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K07374,NA,NA,tubulin alpha,tubulin alpha,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K07375,NA,NA,tubulin beta,tubulin beta,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K08488,NA,NA,syntaxin 7,syntaxin 7,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K07198,NA,NA,"PRKAA, AMPK",AMP-activated protein kinase catalytic alpha subunit,Phagosome acidification,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K08339,NA,NA,ATG5,Autophagy-related protein 5,Phagosome acidification,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K08334,NA,NA,"BECN1, VPS30, ATG6",Beclin 1,Phagosome acidification,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K08342,NA,NA,ATG,Cysteine protease ATG4,Phagosome acidification,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K00914,NA,NA,"PIK3C3, VPS34",Phosphatidylinositol 3-kinase,Phagosome acidification,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K08333,NA,NA,"PIK3R4, VPS15",phosphoinositide-3-kinase regulatory subunit 4,Phagosome acidification,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K08269,NA,NA,"ULK1_2_3, ATG1",serine/threonine-protein kinase ULK/ATG1,Phagosome acidification,McKie-Krisberg et al. 2018,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K06528,NA,NA,lysosomal-associated membrane protein 1/2,lysosomal-associated membrane protein 1/2,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K00921,NA,NA,1-phosphatidylinositol-3-phosphate 5-kinase [EC:2.7.1.150],1-phosphatidylinositol-3-phosphate 5-kinase [EC:2.7.1.150],Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K10089,NA,NA,cation-dependent mannose-6-phosphate receptor,cation-dependent mannose-6-phosphate receptor,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K13240,NA,NA,"nitric-oxide synthase, brain [EC:1.14.13.39]","nitric-oxide synthase, brain [EC:1.14.13.39]",Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K10789,NA,NA,myeloperoxidase [EC:1.11.2.2],myeloperoxidase [EC:1.11.2.2],Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K10956,NA,NA,protein transport protein SEC61 subunit alpha,protein transport protein SEC61 subunit alpha,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K09481,NA,NA,protein transport protein SEC61 subunit beta,protein transport protein SEC61 subunit beta,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K07342,NA,NA,protein transport protein SEC61 subunit gamma and related proteins,protein transport protein SEC61 subunit gamma and related proteins,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K05653,NA,NA,"ATP-binding cassette, subfamily B (MDR/TAP), member 2","ATP-binding cassette, subfamily B (MDR/TAP), member 2",Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K05654,NA,NA,"ATP-binding cassette, subfamily B (MDR/TAP), member 3","ATP-binding cassette, subfamily B (MDR/TAP), member 3",Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K06751,NA,NA,MHC class I antigen,MHC class I antigen,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K06752,NA,NA,MHC class II antigen,MHC class II antigen,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K00921,NA,NA,PIKFYVE FAB1,1-phosphatidylinositol-3-phosphate 5-kinase,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K08054,NA,NA,CANX,Calnexin,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K08057,NA,NA,CALR,Calreticulin,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K01365,NA,NA,CTSL,Cathepsin L,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K10414,NA,NA,DYNC2H DNCH2,dynein heavy chain 2 cytosolic,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K10956,NA,NA,SEC61A,Protein transport protein SEC61 subunit alpha,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,"Motility, prey recognition, cytoskeleton",Phagosome acidification,K07374,NA,NA,TUBA,Tubulin alpha,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,"Motility, prey recognition, cytoskeleton",Phagosome acidification,K07375,NA,NA,TUBB,Tubulin beta,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,Phagosome associated,Phagosome acidification,K03661,NA,NA,ATPeV0B ATP6F,V-type H+-transporting ATPase 21kDa proteolipid subunit,Phagosome acidification,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K13814,NA,NA,TSNARE1,t-SNARE domain-containing protein 1,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K04560,NA,NA,syntaxin 1A,syntaxin 1A,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08486,NA,NA,syntaxin 1B/2/3,syntaxin 1B/2/3,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K13502,NA,NA,syntaxin 4,syntaxin 4,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08487,NA,NA,syntaxin 11,syntaxin 11,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08488,NA,NA,syntaxin 7,syntaxin 7,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K21155,NA,NA,syntaxin VAM3,syntaxin VAM3,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08489,NA,NA,syntaxin 16,syntaxin 16,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08490,NA,NA,syntaxin 5,syntaxin 5,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08491,NA,NA,syntaxin 17,syntaxin 17,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08492,NA,NA,syntaxin 18,syntaxin 18,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08493,NA,NA,vesicle transport through interaction with t-SNAREs 1,vesicle transport through interaction with t-SNAREs 1,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08495,NA,NA,golgi SNAP receptor complex member 1,golgi SNAP receptor complex member 1,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08496,NA,NA,golgi SNAP receptor complex member 2,golgi SNAP receptor complex member 2,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08497,NA,NA,protein transport protein SEC20,protein transport protein SEC20,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08498,NA,NA,syntaxin 6,syntaxin 6,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08499,NA,NA,member of the syntaxin family of t-SNAREs,member of the syntaxin family of t-SNAREs,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08500,NA,NA,syntaxin of plants SYP6,syntaxin of plants SYP6,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08501,NA,NA,syntaxin 8,syntaxin 8,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08502,NA,NA,regulator of vacuolar morphogenesis,regulator of vacuolar morphogenesis,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08503,NA,NA,syntaxin of plants SYP5,syntaxin of plants SYP5,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08504,NA,NA,blocked early in transport 1,blocked early in transport 1,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08505,NA,NA,protein transport protein SFT1,protein transport protein SFT1,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08506,NA,NA,syntaxin of plants SYP7,syntaxin of plants SYP7,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08507,NA,NA,unconventional SNARE in the endoplasmic reticulum protein 1,unconventional SNARE in the endoplasmic reticulum protein 1,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08508,NA,NA,synaptosomal-associated protein 23,synaptosomal-associated protein 23,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08509,NA,NA,synaptosomal-associated protein 29,synaptosomal-associated protein 29,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08510,NA,NA,vesicle-associated membrane protein 1,vesicle-associated membrane protein 1,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K13504,NA,NA,vesicle-associated membrane protein 2,vesicle-associated membrane protein 2,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K13505,NA,NA,vesicle-associated membrane protein 3,vesicle-associated membrane protein 3,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08512,NA,NA,vesicle-associated membrane protein 8,vesicle-associated membrane protein 8,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08513,NA,NA,vesicle-associated membrane protein 4,vesicle-associated membrane protein 4,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08514,NA,NA,vesicle-associated membrane protein 5,vesicle-associated membrane protein 5,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08515,NA,NA,vesicle-associated membrane protein 7,vesicle-associated membrane protein 7,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08516,NA,NA,synaptobrevin homolog YKT6,synaptobrevin homolog YKT6,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,SNARE complex,SNARE complex,K08517,NA,NA,vesicle transport protein SEC22,vesicle transport protein SEC22,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,V-type ATPase,V-type ATPase,K02144,NA,NA,ATPeV1H,V-type H+-transporting ATPase subunit H,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,V-type ATPase,V-type ATPase,K02145,NA,NA,"ATPeV1A, ATP6A",V-type H+-transporting ATPase subunit A,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,V-type ATPase,V-type ATPase,K02146,NA,NA,"ATPeV0D, ATP6D",V-type H+-transporting ATPase subunit d,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,V-type ATPase,V-type ATPase,K02147,NA,NA,"ATPeV1B, ATP6B",V-type H+-transporting ATPase subunit B,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,V-type ATPase,V-type ATPase,K02148,NA,NA,"ATPeV1C, ATP6C",V-type H+-transporting ATPase subunit C,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,V-type ATPase,V-type ATPase,K02149,NA,NA,"ATPeV1D, ATP6M",V-type H+-transporting ATPase subunit D,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,V-type ATPase,V-type ATPase,K02150,NA,NA,"ATPeV1E, ATP6E",V-type H+-transporting ATPase subunit E,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,V-type ATPase,V-type ATPase,K02151,NA,NA,"ATPeV1F, ATP6S14",V-type H+-transporting ATPase subunit F,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,V-type ATPase,V-type ATPase,K02152,NA,NA,"ATPeV1G, ATP6G",V-type H+-transporting ATPase subunit G,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,V-type ATPase,V-type ATPase,K02153,NA,NA,"ATPeV0E, ATP6H",V-type H+-transporting ATPase subunit e,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,V-type ATPase,V-type ATPase,K02154,NA,NA,"ATPeV0A, ATP6N",V-type H+-transporting ATPase subunit a,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,V-type ATPase,V-type ATPase,K02155,NA,NA,"ATPeV0C, ATP6L",V-type H+-transporting ATPase 16kDa proteolipid subunit,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,V-type ATPase,V-type ATPase,K03661,NA,NA,"ATPeV0B, ATP6F",V-type H+-transporting ATPase 21kDa proteolipid subunit,NA,NA,NA,NA,NA,NA,manual
+Phagotrophy,V-type ATPase,V-type ATPase,K03662,NA,NA,"ATPeVS1, ATP6S1",V-type H+-transporting ATPase S1 subunit,NA,NA,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K06139,NA,NA,pqqE,PqqA peptide cyclase,Oxidoreductases activity,Monjot et al. 2025,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K06141,NA,NA,tsgA,"MFS transporter, TsgA protein",Anti-fungal drug resistance,Monjot et al. 2026,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K07297,NA,NA,ADIPOR,adiponectin receptor,Linked with parasitose but the mechanism remained unknown,Monjot et al. 2027,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K07414,NA,NA,CYP2D,cytochrome P450 family 2 subfamily D,Degradation of fatty acids / membrane formation (Cytochrome P450 forms a large family of proteins whose repartition among Oomycetes depends on their trophism (Saprotrophs / Parasites)),Monjot et al. 2028,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K09043,NA,NA,YAP,AP-1-like transcription factor,Transcription factors (TFs) regulate diverse aspects of fungal development and virulence (resistance to oxidative stress and drug),Monjot et al. 2029,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K09240,NA,NA,CAT8,transcriptional regulatory protein CAT8,Activates genes needed for gluconeogenesis,Monjot et al. 2030,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K09795,NA,NA,uncharacterized protein,uncharacterized protein,NA,Monjot et al. 2031,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K09983,NA,NA,uncharacterized protein,uncharacterized protein,NA,Monjot et al. 2032,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K10254,NA,NA,"ohyA, sph",oleate hydratase,Role of protection against anti-microbial fatty acids in Staphylococcus aureus,Monjot et al. 2033,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K10791,NA,NA,TREX2,three prime repair exonuclease 2,"Potential sub-unit of DNA polymerase III (exonuclease 3"" activity) (DNA repair)",Monjot et al. 2034,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K10971,NA,NA,GMA12,"alpha 1,2-galactosyltransferase",Forms glycosidic bonds,Monjot et al. 2035,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K11736,NA,NA,proY,proline-specific permease ProY,Link to fungi virulence (fungal growth and filamentation). Amino acid permease are required for oomycete susceptibility,Monjot et al. 2036,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K12167,NA,NA,HECW1,E3 ubiquitin-protein ligase HECW1,SUMOylation which positively regulates VSG expression (immunogenicity and extracellular survival mechanism),Monjot et al. 2037,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K13514,NA,NA,LPGAT1,lysophosphatidylglycerol acyltransferase 1,Glycerophospholipid metabolism in Fungi,Monjot et al. 2038,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K14263,NA,NA,BNA7,kynurenine formamidase,"Hydrolase activity. Participates in tryptophan, glyoxylate and dicarboxylate metabolism",Monjot et al. 2039,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K14315,NA,NA,"NDC1, TMEM48",nucleoporin NDC1,Plays a role in transcriptional regulation that is poorly understood,Monjot et al. 2040,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K15629,NA,NA,CYP152A,fatty-acid peroxygenase,Degradation of fatty acids / membrane formation (Cytochrome P450 forms a large family of proteins whose repartition among Oomycetes depends on their trophism (Saprotrophs / Parasites)),Monjot et al. 2041,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K15957,NA,NA,rdmC,aclacinomycin methylesterase,Anthracycline or aclacinomycin metabolism,Monjot et al. 2042,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K15975,NA,NA,K15975,glyoxalase family protein,"Detoxification of reactive dicarbonyls which react with cellular nucleophiles, resulting in the modification of lipids, proteins, and DNA. These damaging modifications activate canonical stress responses such as heat shock, unfolded protein, antioxidant, and DNA damage responses.",Monjot et al. 2043,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K16112,NA,NA,blmIV,nonribosomal peptide synthetase protein BlmIV,BleomycinÂ synthesis,Monjot et al. 2044,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K16395,NA,NA,epoB,epothilone synthetase B,Epothilone synthesis,Monjot et al. 2045,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K17635,NA,NA,"RGL1, RGL",ral guanine nucleotide dissociation stimulator-like 1,Intracellular transport,Monjot et al. 2046,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K17836,NA,NA,penP,beta-lactamase class A,Resistance to Antibiotic,Monjot et al. 2047,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K17968,NA,NA,"TRIAP1, MDM35",TRIAP1/MDM35 family protein,Complexe which preventing apoptosis,Monjot et al. 2048,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K18278,NA,NA,THI5,pyrimidine precursor biosynthesis enzyme,"Involve in Thiamine-biosynthesis, required for conidial production and cell wall integrity of the entomopathogenic fungi",Monjot et al. 2049,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K18698,NA,NA,blaTEM,beta-lactamase class A TEM,Resistance to Antibiotic,Monjot et al. 2050,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K19465,NA,NA,"MGME1, DDK1",mitochondrial genome maintenance exonuclease 1,DNA-repair process,Monjot et al. 2051,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K20095,NA,NA,RNMTL1,16S rRNA (guanosine(1370)-2'-O)-methyltransferase,Ribosome biogenesis,Monjot et al. 2052,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K20637,NA,NA,ARHGAP15,Rho GTPase-activating protein 15,Plays a major role in regulation of apoptosis in different kind of stress conditions,Monjot et al. 2053,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K20656,NA,NA,TMEM189,plasmanylethanolamine desaturase,Formation of glycosylphosphatidylinositols covering the surface of trypanosomes,Monjot et al. 2054,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K20724,NA,NA,TMEM33,transmembrane protein 33,Multiple,Monjot et al. 2055,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K20813,NA,NA,TDG,thymine-DNA glycosylase,DNA repair and role in regulation (interacts with various transcription factors to activate target genes),Monjot et al. 2056,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K21200,NA,NA,CYP144,cytochrome P450 family 144,Degradation of fatty acids / membrane formation (Cytochrome P450 forms a large family of proteins whose repartition among Oomycetes depends on their trophism (Saprotrophs / Parasites)),Monjot et al. 2057,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K22075,NA,NA,BOLA3,BolA-like protein 3,"Multiple role / poorly described (virulence, resistence, etc)",Monjot et al. 2058,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K22484,NA,NA,CBF1,transcriptional regulator CBF1,Transcription factors (TFs) regulate diverse aspects of fungal development and virulence (resistance to oxidative stress and drug),Monjot et al. 2059,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K23098,NA,NA,RSPO3,R-spondin 3,Multiple,Monjot et al. 2060,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K23537,NA,NA,nupA,general nucleoside transport system ATP-binding protein,"Nutrients are imported from the host as either nucleosides or nucleobases, either of which can serve as a purine source for the parasite",Monjot et al. 2025,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K24003,NA,NA,"stc2, hpbB",stachydrine N-demethylase,Oxidoreductases activity,Monjot et al. 2026,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K24160,NA,NA,"NHA1, SOD2",sodium/hydrogen antiporter,"Involve in multiple host-parasite relationship with many different roles (motility, invasion, etc)",Monjot et al. 2027,NA,NA,NA,NA,manual
+Parasitism,Parasitism,Parasitism,K24388,NA,NA,ZC3H8,zinc finger CCCH domain-containing protein 8,"Multiple (the sexual reproduction, virulence factor production, ion homeostasis, pathogenesis, and stress resistance, RNA-binding, mRNA metabolism)",Monjot et al. 2028,NA,NA,NA,NA,manual
+Phagotrophy,NA,Protein that plays a role in coating vesicles,K04644,NA,NA,NA,"CLTA,ÊLCA;ÊclathrinÊlightÊchainÊA",Protein that plays a role in coating vesicles,Labarre et al. 2019,NA,NA,NA,NA,manual
+Vesicle trafficking,Vesicle trafficking,Protein that plays a role in coating vesicles,K04645,NA,NA,NA,"CLTB,ÊLCB;ÊclathrinÊlightÊchainÊB",Protein that plays a role in coating vesicles,Labarre et al. 2019,NA,NA,NA,NA,keyword_auto
+Vesicle trafficking,Vesicle trafficking,Protein that plays a role in coating vesicles,K04646,NA,NA,NA,CLTC;ÊclathrinÊheavyÊchain,Protein that plays a role in coating vesicles,Labarre et al. 2019,NA,NA,NA,NA,keyword_auto
+Motility/cytoskeletal,Motility/cytoskeletal,Role in transporting material inside a cell,K10408,NA,NA,NA,"DNAH;ÊdyneinÊheavyÊchain,Êaxonemal",Role in transporting material inside a cell,Labarre et al. 2019,NA,NA,NA,NA,keyword_auto
+Motility/cytoskeletal,Motility/cytoskeletal,Role in transporting material inside a cell,K10414,NA,NA,NA,"DYNC1H;ÊdyneinÊheavyÊchainÊ1,Êcytosolic",Role in transporting material inside a cell,Labarre et al. 2019,NA,NA,NA,NA,keyword_auto
+Motility/cytoskeletal,Motility/cytoskeletal,Role in transporting material inside a cell,K10413,NA,NA,NA,"DYNC2H,ÊDNCH2;ÊdyneinÊheavyÊchainÊ2,Êcytosolic",Role in transporting material inside a cell,Labarre et al. 2019,NA,NA,NA,NA,keyword_auto
+Motility/cytoskeletal,Motility/cytoskeletal,Actin-related,K02184,NA,NA,NA,FMN2;ÊforminÊ2,Actin formation role,Labarre et al. 2019,NA,NA,NA,NA,keyword_auto
+Prey detection,Prey detection,"Motility, prey recognition, cytoskeleton",K04638,NA,NA,NA,"IFT57,ÊHIPPI,ÊESRRBL1;ÊintraflagellarÊtransportÊproteinÊ57",Intraflagellar transport,Labarre et al. 2019,NA,NA,NA,NA,keyword_auto
+Motility/cytoskeletal,Motility/cytoskeletal,"Motility, prey recognition, cytoskeleton",K17387,NA,NA,NA,NA,Kinesin-related,NA,NA,NA,NA,NA,keyword_auto
+Motility/cytoskeletal,Motility/cytoskeletal,"Motility, prey recognition, cytoskeleton",K10396,NA,NA,NA,NA,Kinesin-related,NA,NA,NA,NA,NA,keyword_auto
+Motility/cytoskeletal,Motility/cytoskeletal,"Motility, prey recognition, cytoskeleton",K18806,NA,NA,NA,NA,Kinesin-related,NA,NA,NA,NA,NA,keyword_auto
+Motility/cytoskeletal,Motility/cytoskeletal,"Motility, prey recognition, cytoskeleton",K10407,NA,NA,NA,NA,Kinesin-related,NA,NA,NA,NA,NA,keyword_auto
+Motility/cytoskeletal,Motility/cytoskeletal,"Motility, prey recognition, cytoskeleton",K15374,NA,NA,NA,NA,Kinesin-related,NA,NA,NA,NA,NA,keyword_auto
+Vesicle trafficking,Vesicle trafficking,Phagosome maturation,K14006,NA,NA,NA,SEC23;ÊproteinÊtransportÊproteinÊSEC23,NA,NA,NA,NA,NA,NA,keyword_auto

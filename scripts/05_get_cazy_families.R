@@ -24,7 +24,8 @@ parse_cazy_page <- function(class_abbrev, class_info) {
       html_attr("href") |>
       na.omit()
 
-    family_links <- links[str_detect(links, paste0("/", class_abbrev, "\\d+\\.html$"))]
+    # Links may be relative (CE1.html) or absolute (/CE1.html)
+    family_links <- links[str_detect(links, paste0("(?:^|/)", class_abbrev, "\\d+\\.html$"))]
     family_ids <- str_extract(family_links, paste0(class_abbrev, "\\d+"))
 
     # Get table rows with family + description
@@ -46,8 +47,17 @@ parse_cazy_page <- function(class_abbrev, class_info) {
       }
     }
 
+    # Fallback: pull family IDs directly from links when table parsing finds nothing
     if (nrow(rows) == 0 && length(family_ids) > 0) {
-      rows <- tibble(family_id = unique(family_ids), description = NA_character_)
+      # Try to get descriptions from link text
+      link_nodes <- page |> html_elements("a")
+      link_hrefs <- link_nodes |> html_attr("href") |> coalesce("")
+      link_texts <- link_nodes |> html_text(trim = TRUE)
+      idx <- str_detect(link_hrefs, paste0("(?:^|/)", class_abbrev, "\\d+\\.html$"))
+      rows <- tibble(
+        family_id = str_extract(link_hrefs[idx], paste0(class_abbrev, "\\d+")),
+        description = link_texts[idx]
+      ) |> distinct(family_id, .keep_all = TRUE)
     }
 
     rows |> mutate(

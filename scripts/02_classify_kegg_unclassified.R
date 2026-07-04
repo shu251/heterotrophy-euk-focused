@@ -1,6 +1,8 @@
 library(tidyverse)
 
-kegg_raw <- read_csv("data/raw/kegg_curation_SKHU_May2026.csv", show_col_types = FALSE)
+kegg_raw <- read_csv("data/raw/kegg_curation_SKHU_May2026.csv",
+                     show_col_types = FALSE,
+                     locale = locale(encoding = "latin1"))
 
 # Keyword patterns by heterotrophy category
 patterns <- list(
@@ -28,7 +30,9 @@ search_text <- function(df) {
     coalesce(df$NAME_SHORT, ""),
     coalesce(df$DESCRIPTION, ""),
     sep = " "
-  ) |> tolower()
+  ) |>
+    iconv(from = "latin1", to = "UTF-8", sub = " ") |>
+    tolower()
 }
 
 classified <- kegg_raw |>
